@@ -3,3 +3,4 @@ lapis
 lazuli
 Mana
 subcommands
+Undiscover
