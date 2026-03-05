@@ -1,28 +1,67 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Electroblob's Wizardry Redux Wiki",
+  title: "EB Wizardry Redux Wiki",
   description: "Magic mod for Minecraft",
+
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: "User", link: "/" },
+      { text: "Advanced", link: "/advanced/" },
+      { text: "Developer", link: "/developer/" },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar: {
+      "/advanced/": [
+        {
+          text: "Advanced Wiki",
+          items: [
+            { text: "Home", link: "/advanced/" },
+            { text: "Commands", link: "/advanced/commands" },
+            { text: "Datapacks", link: "/advanced/datapacks" },
+            {
+              text: "Data",
+              collapsed: true,
+              items: [
+                { text: "WizardData", link: "/advanced/data/wizarddata" },
+                { text: "SpellData", link: "/advanced/data/spelldata" },
+                { text: "CastCommandData", link: "/advanced/data/castcommanddata" }
+              ]
+            }
+          ],
+        },
+      ],
+
+      "/developer/": [
+        {
+          text: "Developer Wiki",
+          items: [
+            { text: "Home", link: "/developer/" },
+            { text: "API Examples", link: "/developer/api-examples" },
+            { text: "Contributing", link: "/developer/contributing" },
+          ],
+        },
+      ],
+
+      "/": [
+        {
+          text: "User Wiki",
+          items: [
+            { text: "Home", link: "/" },
+            { text: "Getting Started", link: "/getting_started" },
+            { text: "Spells", link: "/spells" },
+            { text: "Wands", link: "/wands" },
+            { text: "Spell Book", link: "/spell_book" },
+            { text: "Magic Crystal", link: "/magic_crystal" },
+          ],
+        },
+      ],
+    },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+      // pon tu repo real aquí cuando quieras
+      // { icon: "github", link: "https://github.com/OWNER/REPO" }
+      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+    ],
+  },
+});
