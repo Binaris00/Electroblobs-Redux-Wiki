@@ -4,13 +4,13 @@ This page is a quick guide/walkthrough to help beginners get to grips with the b
 
 ## First Steps
 
-The very first thing you'll want to do is collect [magic crystals](/magic_crystals). These small items are a central part of wizardry - they'll supply your wands with mana for your tool, also you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of crystal ore, also you could find crystal flowers in most of the biomes.
+The very first thing you'll want to do is collect [magic crystals](/main/item/magic_crystal). These small items are a central part of wizardry - they'll supply your [wands](/main/item/wands) with mana for your tool, also you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of [crystal ore](/main/block/crystal_ore), also you could find [crystal flowers](/main/) in most of the biomes.
 
 You should also gather a few other resources: some smooth stone, a handful of lapis lazuli pieces, some wool, a few gold nuggets and a couple of books.
 
 ## Setting up
 
-Once you've got all that, take a book and a magic crystal and craft yourself a copy of The Wizard's Handbook. This handy guide will tell you everything you need to know about becoming a wizard, including all of the crafting recipes in wizardry. Turn to that section and use the recipes there to craft yourself a magic wand, an arcane workbench and a magic missile spell book.
+Once you've got all that, take a book and a magic crystal and craft yourself a copy of [The Wizard's Handbook](main/item/wizards_handbook). This handy guide will tell you everything you need to know about becoming a wizard, including all of the crafting recipes in wizardry. Turn to that section and use the recipes there to craft yourself a magic wand, an [arcane workbench](/main/block/arcane_workbench) and a [magic missile spell book](/main/item/spell_book).
 
 ## Arcane Workbench
 
@@ -18,13 +18,13 @@ Take your new arcane workbench and place it down somewhere (it doesn't matter wh
 
 ![Arcane Workbench without anything](resources/img/arcaneworkbench_gui.png)
 
-The central slot is where you can place wands, wizard armor and scrolls. Place your new magic wand in there - you should see five more slots appear in a circle around the central slot. These slots are for spell books, and each one corresponds to one of the spell slots on your wand. Unless you were lucky enough to find a spell book on your travels, you'll only have one - the magic missile spell book you crafted earlier - so place it in one of the five spell book slots.
+The central slot is where you can place wands, [wizard armor](/main/item/wizard_armors) and [scrolls](/main/item/scroll). Place your new magic wand in there - you should see five more slots appear in a circle around the central slot. These slots are for spell books, and each one corresponds to one of the spell slots on your wand. Unless you were lucky enough to find a spell book on your travels, you'll only have one - the magic missile spell book you crafted earlier - so place it in one of the five spell book slots.
 
-The other thing you probably noticed when you placed your wand in the arcane workbench was the tooltip that appears to the right. If you take a look at that, you'll see that your wand currently holds no mana. Mana is the magical energy used to cast spells, and without it your wand isn't much use, so let's fix that! Take some magic crystals and place them in the slot in the bottom-left corner. Now click the big shiny confirm button (bottom-right), and the crystals should vanish! Don't worry though, they've been turned into mana, which is now stored within your wand.
+The other thing you probably noticed when you placed your wand in the arcane workbench was the tooltip that appears to the right Mana is the magical energy used to cast spells, and without it your wand isn't much use, so in case you need to refill your wand here's what you need to do: Take some magic crystals and place them in the slot in the bottom-left corner. Now click the big shiny confirm button (bottom-right), and the crystals should vanish! Don't worry though, they've been turned into mana, which is now stored within your wand.
 
 ![Arcane workbench with crystals, spell books and wand](resources/img/arcaneworkbench_gui_filled.png)
 
-You'll notice that the tooltip has changed in two ways: firstly, your wand will now have some mana - 100 times the number of crystals that were used up, to be exact - and secondly, there should now be a list of five spells that are bound to your wand. One of these will be magic missile, but the rest will probably say '[Empty slot]'. You can fill those up later once you get some more spells, but for now you're done with the arcane workbench, so take your wand and let's cast some spells!
+You'll notice that the tooltip has changed in two ways: firstly, your wand will now have some mana - 100 times the number of crystals that were used up, to be exact - and secondly, there should now be a list of five spells that are bound to your wand. One of these will be [magic missile](/main/spell/magic_missile), but the rest will probably say '[Empty slot]'. You can fill those up later once you get some more spells, but for now you're done with the arcane workbench, so take your wand and let's cast some spells!
 
 ## Casting spells
 

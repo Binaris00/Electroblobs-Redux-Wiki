@@ -7,3 +7,4 @@ Undiscover
 overworld
 TODO
 craftable
+arcana
