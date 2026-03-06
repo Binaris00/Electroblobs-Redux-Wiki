@@ -4,3 +4,6 @@ lazuli
 Mana
 subcommands
 Undiscover
+overworld
+TODO
+craftable
