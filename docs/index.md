@@ -24,7 +24,7 @@ features:
   - title: Spells
     details: (Spoiler!) Check all the available spells in the mod
     linkText: Learn more
-    link: /spells
+    link: /main/spells
   - title: Artifacts
     details: (Spoiler!) Learn about all the magic artifacts discovered at the moment
     linkText: Learn more
