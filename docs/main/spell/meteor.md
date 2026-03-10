@@ -1,15 +1,26 @@
 # Meteor
 
-| Data | Value |
-| --- | --- |
-| Icon | ![meteor icon](/resources/img/spell/meteor.png) |
-| Tier | Master |
-| Element | Fire |
-| Type | Attack |
-| Mana Cost | 100 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:meteor` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/meteor.png) |
+| **Element** | <span class="element-fire">Fire</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-master">Master</span> |
+| **Mana Cost** | 100 |
+| **Cooldown** | 10 seconds |
+| **Charge Time** | 20 ticks |
+| **ID** | `ebwizardry:meteor` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 40.0 |
+| Damage | 2.0 |
 
 ## Description
-_Some wizards just want to see the world burn..._
+
+Some wizards just want to see the world burn...
+

@@ -1,20 +1,28 @@
 # Freeze
 
-| Data | Value |
-| --- | --- |
-| Icon | ![freeze icon](/resources/img/spell/freeze.png) |
-| Tier | Novice |
-| Element | Ice |
-| Type | Alteration |
-| Mana Cost | 5 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:freeze` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/freeze.png) |
+| **Element** | <span class="element-ice">Ice</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-novice">Novice</span> |
+| **Mana Cost** | 5 |
+| **Cooldown** | 10 ticks |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:freeze` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
+| Damage | 3.0 |
+| 'effect' effect duration | 200 |
+| 'effect' effect strength | 1 |
 
 ## Description
-_Freezes the target for 10 seconds. Will also freeze water and create snow on the ground._
 
-Freeze is the most basic of all the ice spells, giving the caster the ability to inflict [[frostbite]] I on targets for 10 seconds, though it does not actually deal any damage. It also allows water source blocks to be turned to ice, lava to be turned to obsidian and snow layers to be placed on the ground. Freeze is the ice equivalent to the [[ignite]] spell.
+Freezes the target for 10 seconds. Will also freeze water and create snow on the ground.
 
-## Trivia
-- Freeze will deal damage to blazes and magma cubes.

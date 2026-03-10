@@ -1,20 +1,27 @@
 # Thunderbolt
 
-| Data | Value |
-| --- | --- |
-| Icon | ![thunderbolt icon](/resources/img/spell/thunderbolt.png) |
-| Tier | Novice |
-| Element | Lightning |
-| Type | Projectile |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:thunderbolt` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/thunderbolt.png) |
+| **Element** | <span class="element-lightning">Lightning</span> |
+| **Type** | Projectile |
+| **Tier** | <span class="tier-novice">Novice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 15 ticks |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:thunderbolt` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 12.0 |
+| Damage | 3.0 |
+| Knockback | 0.2 |
 
 ## Description
-_Shoots a bolt of thunder which knocks back targets._
 
-Thunderbolt is a novice lightning spell which provides a short to medium range attack that deals 1.5 hearts of damage and knocks back targets a short distance.
+Shoots a bolt of thunder which knocks back targets.
 
-## Trivia
-- As with most lightning spells, hitting a creeper with the thunderbolt spell will cause it to become charged.

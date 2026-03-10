@@ -1,15 +1,26 @@
 # Replenish Hunger
 
-| Data | Value |
-| --- | --- |
-| Icon | ![replenish hunger icon](/resources/img/spell/replenish_hunger.png) |
-| Tier | Apprentice |
-| Element | Healing |
-| Type | Buff |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:replenish_hunger` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/replenish_hunger.png) |
+| **Element** | <span class="element-healing">Healing</span> |
+| **Type** | Buff |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 1.5 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:replenish_hunger` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Hunger points | 6 |
+| Saturation modifier | 0.1 |
 
 ## Description
-_Replenishes the caster's food level by 4 hunger points._
+
+Replenishes the caster's food level by 3 hunger points.
+

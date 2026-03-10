@@ -1,15 +1,25 @@
 # Conjure Sword
 
-| Data | Value |
-| --- | --- |
-| Icon | ![conjure sword icon](/resources/img/spell/conjure_sword.png) |
-| Tier | Apprentice |
-| Element | Sorcery |
-| Type | Utility |
-| Mana Cost | 25 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:conjure_sword` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/conjure_sword.png) |
+| **Element** | <span class="element-sorcery">Sorcery</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 25 |
+| **Cooldown** | 2.5 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:conjure_sword` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Item lifetime | 1200 |
 
 ## Description
-_Creates a spectral sword of equal strength to an iron sword that lasts for 30 seconds._
+
+Creates a spectral sword of equal strength to an iron sword that lasts for 60 seconds.
+

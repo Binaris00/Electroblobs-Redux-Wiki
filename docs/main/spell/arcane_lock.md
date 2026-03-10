@@ -1,16 +1,25 @@
 # Arcane Lock
 
-| Data | Value |
-| --- | --- |
-| Icon | ![arcane lock icon](/resources/img/spell/arcane_lock.png) |
-| Tier | Advanced |
-| Element | Sorcery |
-| Type | Utility |
-| Mana Cost | 50 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:arcane_lock` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/arcane_lock.png) |
+| **Element** | <span class="element-sorcery">Sorcery</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 50 |
+| **Cooldown** | 5 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:arcane_lock` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 8.0 |
 
 ## Description
 
-_Creates an impenetrable barrier of force around a container, protecting it from being opened or destroyed. The caster and their allies may still open it, however._
+Creates an impenetrable barrier of force around a container, protecting it from being opened or destroyed. The caster and their allies may still open it, however.
+

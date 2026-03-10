@@ -1,15 +1,19 @@
 # Pocket Workbench
 
-| Data | Value |
-| --- | --- |
-| Icon | ![pocket workbench icon](/resources/img/spell/pocket_workbench.png) |
-| Tier | Apprentice |
-| Element | Sorcery |
-| Type | Utility |
-| Mana Cost | 30 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:pocket_workbench` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/pocket_workbench.png) |
+| **Element** | <span class="element-sorcery">Sorcery</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 30 |
+| **Cooldown** | 2 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:pocket_workbench` |
 
 ## Description
-_Allows the caster to craft items as if they were at a crafting table._
+
+Allows the caster to craft items as if they were at a crafting table.
+

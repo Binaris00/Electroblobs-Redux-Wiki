@@ -1,15 +1,26 @@
 # Whirlwind
 
-| Data | Value |
-| --- | --- |
-| Icon | ![whirlwind icon](/resources/img/spell/whirlwind.png) |
-| Tier | Apprentice |
-| Element | Earth |
-| Type | Alteration |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:whirlwind` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/whirlwind.png) |
+| **Element** | <span class="element-earth">Earth</span> |
+| **Type** | Defense |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 15 ticks |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:whirlwind` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
+| Speed | 1.5 |
 
 ## Description
-_Causes the target to be blown upwards and away from you at speed._
+
+Causes the target to be blown upwards and away from you at speed.
+

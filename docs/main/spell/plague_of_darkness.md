@@ -1,15 +1,28 @@
 # Plague of Darkness
 
-| Data | Value |
-| --- | --- |
-| Icon | ![plague of darkness icon](/resources/img/spell/plague_of_darkness.png) |
-| Tier | Master |
-| Element | Necromancy |
-| Type | Attack |
-| Mana Cost | 75 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:plague_of_darkness` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/plague_of_darkness.png) |
+| **Element** | <span class="element-necromancy">Necromancy</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-master">Master</span> |
+| **Mana Cost** | 75 |
+| **Cooldown** | 10 seconds |
+| **Charge Time** | 15 ticks |
+| **ID** | `ebwizardry:plague_of_darkness` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Effect radius | 5 |
+| Damage | 8.0 |
+| 'effect' effect duration | 140 |
+| 'effect' effect strength | 2 |
 
 ## Description
-_The darkness will consume them all..._
+
+The darkness will consume them all...
+

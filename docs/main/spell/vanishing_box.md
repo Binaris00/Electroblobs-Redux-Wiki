@@ -1,15 +1,19 @@
 # Vanishing Box
 
-| Data | Value |
-| --- | --- |
-| Icon | ![vanishing box icon](/resources/img/spell/vanishing_box.png) |
-| Tier | Advanced |
-| Element | Sorcery |
-| Type | Utility |
-| Mana Cost | 45 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:vanishing_box` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/vanishing_box.png) |
+| **Element** | <span class="element-sorcery">Sorcery</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 45 |
+| **Cooldown** | 3.5 seconds |
+| **Charge Time** | 10 ticks |
+| **ID** | `ebwizardry:vanishing_box` |
 
 ## Description
-_Grants the caster access to their ender chest storage._
+
+Grants the caster access to their ender chest storage.
+

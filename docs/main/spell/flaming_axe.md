@@ -1,15 +1,26 @@
 # Flaming Axe
 
-| Data | Value |
-| --- | --- |
-| Icon | ![flaming axe icon](/resources/img/spell/flaming_axe.png) |
-| Tier | Advanced |
-| Element | Fire |
-| Type | Utility |
-| Mana Cost | 45 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:flaming_axe` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/flaming_axe.png) |
+| **Element** | <span class="element-fire">Fire</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 45 |
+| **Cooldown** | 2.5 seconds |
+| **Charge Time** | 10 ticks |
+| **ID** | `ebwizardry:flaming_axe` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Item lifetime | 1200 |
+| 'effect' effect duration | 8 |
 
 ## Description
-_Creates a flaming axe which sets enemies on fire when hit. Lasts for 30 seconds._
+
+Creates a flaming axe which sets enemies on fire when hit. Lasts for 30 seconds.
+

@@ -1,15 +1,27 @@
 # Detonate
 
-| Data | Value |
-| --- | --- |
-| Icon | ![detonate icon](/resources/img/spell/detonate.png) |
-| Tier | Advanced |
-| Element | Fire |
-| Type | Attack |
-| Mana Cost | 45 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:detonate` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/detonate.png) |
+| **Element** | <span class="element-fire">Fire</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 45 |
+| **Cooldown** | 2.5 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:detonate` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 16.0 |
+| Damage | 12.0 |
+| Blast radius | 3.0 |
 
 ## Description
-_Causes an explosion where you are pointing, damaging all nearby creatures - including the caster, if they are too close._
+
+Causes an explosion where you are pointing, damaging all nearby creatures - including the caster, if they are too close.
+

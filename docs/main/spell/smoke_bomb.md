@@ -1,20 +1,27 @@
 # Smoke Bomb
 
-| Data | Value |
-| --- | --- |
-| Icon | ![smoke bomb icon](/resources/img/spell/smoke_bomb.png) |
-| Tier | Novice |
-| Element | Fire |
-| Type | Projectile |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:smoke_bomb` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/smoke_bomb.png) |
+| **Element** | <span class="element-fire">Fire</span> |
+| **Type** | Projectile |
+| **Tier** | <span class="tier-novice">Novice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 1 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:smoke_bomb` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
+| Effect radius | 2 |
+| 'effect' effect duration | 120 |
 
 ## Description
-_Launches a smoke bomb in the direction you are pointing which explodes on impact, releasing smoke and blinding nearby creatures for a short time._
 
-Smoke bomb is a ranged AoE spell which, whilst it does not deal any damage, gives players a blindness effect and prevents mobs from targeting anything. It is one of several 'bomb' spells, all of which operate in a similar fashion.
+Launches a smoke bomb in the direction you are pointing which explodes on impact, releasing smoke and blinding nearby creatures for a short time.
 
-## Trivia
-- Smoke bombs are also available as a [[throwable item|Smoke-Bomb]].

@@ -1,15 +1,25 @@
 # Conjure Pickaxe
 
-| Data | Value |
-| --- | --- |
-| Icon | ![conjure pickaxe icon](/resources/img/spell/conjure_pickaxe.png) |
-| Tier | Apprentice |
-| Element | Sorcery |
-| Type | Utility |
-| Mana Cost | 25 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:conjure_pickaxe` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/conjure_pickaxe.png) |
+| **Element** | <span class="element-sorcery">Sorcery</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 25 |
+| **Cooldown** | 2.5 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:conjure_pickaxe` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Item lifetime | 1200 |
 
 ## Description
-_Creates a spectral pickaxe of equal strength to an iron pickaxe that lasts for 30 seconds._
+
+Creates a spectral pickaxe of equal strength to an iron pickaxe that lasts for 60 seconds.
+

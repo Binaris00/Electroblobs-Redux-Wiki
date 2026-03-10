@@ -1,15 +1,27 @@
 # Firebolt
 
-| Data | Value |
-| --- | --- |
-| Icon | ![firebolt icon](/resources/img/spell/firebolt.png) |
-| Tier | Apprentice |
-| Element | Fire |
-| Type | Projectile |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:firebolt` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/firebolt.png) |
+| **Element** | <span class="element-fire">Fire</span> |
+| **Type** | Projectile |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 10 ticks |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:firebolt` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 15.0 |
+| Damage | 5.0 |
+| 'effect' effect duration | 5 |
 
 ## Description
-_Shoots a jet of fire a short distance in front of you._
+
+Shoots a jet of fire a short distance in front of you.
+

@@ -1,15 +1,28 @@
 # Decay
 
-| Data | Value |
-| --- | --- |
-| Icon | ![decay icon](/resources/img/spell/decay.png) |
-| Tier | Advanced |
-| Element | Necromancy |
-| Type | Attack |
-| Mana Cost | 50 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:decay` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/decay.png) |
+| **Element** | <span class="element-necromancy">Necromancy</span> |
+| **Type** | Defense |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 35 |
+| **Cooldown** | 4 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:decay` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 12.0 |
+| Duration | 400 |
+| 'effect' effect duration | 400 |
+| Decay patches spawned | 5 |
 
 ## Description
-_Creates a patch of decay on the ground which infects any creature that touches it, causing lingering damage over time and spreading more decay wherever it walks._
+
+Creates a patch of decay on the ground which infects any creature that touches it, causing lingering damage over time and spreading more decay wherever it walks.
+

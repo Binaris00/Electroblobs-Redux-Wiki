@@ -1,16 +1,25 @@
 # Invoke Weather
 
-| Data | Value |
-| --- | --- |
-| Icon | ![invoke weather icon](/resources/img/spell/invoke_weather.png) |
-| Tier | Advanced |
-| Element | Lightning |
-| Type | Utility |
-| Mana Cost | 30 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:invoke_weather` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/invoke_weather.png) |
+| **Element** | <span class="element-lightning">Lightning</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 30 |
+| **Cooldown** | 5 seconds |
+| **Charge Time** | 15 ticks |
+| **ID** | `ebwizardry:invoke_weather` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Thunderstorm chance | 0.2 |
 
 ## Description
 
-_Changes the weather in the world._
+Changes the weather in the world.
+

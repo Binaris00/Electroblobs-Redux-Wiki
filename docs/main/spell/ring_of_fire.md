@@ -1,23 +1,28 @@
 # Ring of Fire
 
-| Data | Value |
-| --- | --- |
-| Icon | ![ring of fire icon](/resources/img/spell/ring_of_fire.png) |
-| Tier | Advanced |
-| Element | Fire |
-| Type | Construct |
-| Mana Cost | 30 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:ring_of_fire` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/ring_of_fire.png) |
+| **Element** | <span class="element-fire">Fire</span> |
+| **Type** | Construct |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 30 |
+| **Cooldown** | 5 seconds |
+| **Charge Time** | 10 ticks |
+| **ID** | `ebwizardry:ring_of_fire` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Duration | 600 |
+| Effect radius | 3 |
+| Damage | 1.0 |
+| 'effect' effect duration | 10 |
 
 ## Description
-_Creates a ring of fire around the caster, damaging all nearby enemies and setting them on fire._
 
-Ring of fire conjures a ring of fire approximately 4 blocks wide around the caster, which sets fire to any creature that steps on it. In addition, creatures within the ring of fire when the spell is first cast receive additional fire damage. The caster and their allies are not affected by either of these effects.
+Creates a ring of fire around the caster, damaging all nearby enemies and setting them on fire.
 
-[[images/screenshots/ring_of_fire.png]]
-_A ring of fire viewed from above_
-
-## Trivia
-- Multiple rings of fire may be summoned on top of each other, though this does no more damage to creatures stepping on them than a single ring of fire.

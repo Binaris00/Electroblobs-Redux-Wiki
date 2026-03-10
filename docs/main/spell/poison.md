@@ -1,15 +1,28 @@
 # Poison
 
-| Data | Value |
-| --- | --- |
-| Icon | ![poison icon](/resources/img/spell/poison.png) |
-| Tier | Apprentice |
-| Element | Earth |
-| Type | Attack |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:poison` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/poison.png) |
+| **Element** | <span class="element-earth">Earth</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 1 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:poison` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
+| Damage | 1.0 |
+| 'effect' effect duration | 200 |
+| 'effect' effect strength | 1 |
 
 ## Description
-_Fires poison in the direction you are pointing._
+
+Fires poison in the direction you are pointing.
+

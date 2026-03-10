@@ -1,15 +1,19 @@
 # Remove Curse
 
-| Data | Value |
-| --- | --- |
-| Icon | ![remove curse icon](/resources/img/spell/remove_curse.png) |
-| Tier | Advanced |
-| Element | Healing |
-| Type | Defence |
-| Mana Cost | 50 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:remove_curse` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/remove_curse.png) |
+| **Element** | <span class="element-healing">Healing</span> |
+| **Type** | Defense |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 50 |
+| **Cooldown** | 4 seconds |
+| **Charge Time** | 20 ticks |
+| **ID** | `ebwizardry:remove_curse` |
 
 ## Description
-_Removes any curse currently affecting the caster._
+
+Removes any curse currently affecting the caster.
+

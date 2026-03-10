@@ -1,15 +1,26 @@
 # Heal Ally
 
-| Data | Value |
-| --- | --- |
-| Icon | ![heal ally icon](/resources/img/spell/heal_ally.png) |
-| Tier | Apprentice |
-| Element | Healing |
-| Type | Defence |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:heal_ally` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/heal_ally.png) |
+| **Element** | <span class="element-healing">Healing</span> |
+| **Type** | Defense |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 1 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:heal_ally` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
+| Health | 5.0 |
 
 ## Description
-_Heals the target by 2 and a half hearts._
+
+Heals the target by 2 and a half hearts.
+

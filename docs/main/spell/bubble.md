@@ -1,16 +1,26 @@
 # Bubble
 
-| Data | Value |
-| --- | --- |
-| Icon | ![bubble icon](/resources/img/spell/bubble.png) |
-| Tier | Apprentice |
-| Element | Earth |
-| Type | Attack |
-| Mana Cost | 15 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:bubble` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/bubble.png) |
+| **Element** | <span class="element-earth">Earth</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 15 |
+| **Cooldown** | 1 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:bubble` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
+| Duration | 200 |
 
 ## Description
 
-_Fires a jet of bubbles which causes anything it hits to float upwards helplessly. The target will fall after a certain time or if it is damaged._
+Fires a jet of bubbles which causes anything it hits to float upwards helplessly. The target will fall after a certain time or if it is damaged.
+

@@ -1,15 +1,29 @@
 # Tornado
 
-| Data | Value |
-| --- | --- |
-| Icon | ![tornado icon](/resources/img/spell/tornado.png) |
-| Tier | Advanced |
-| Element | Earth |
-| Type | Attack |
-| Mana Cost | 35 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:tornado` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/tornado.png) |
+| **Element** | <span class="element-earth">Earth</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 35 |
+| **Cooldown** | 4 seconds |
+| **Charge Time** | 10 ticks |
+| **ID** | `ebwizardry:tornado` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Duration | 200 |
+| Speed | 0.33 |
+| Effect radius | 4 |
+| Damage | 1.0 |
+| Acceleration | 0.22 |
 
 ## Description
-_Unleashes a tornado in the direction you are pointing which hurls anything in its path skywards._
+
+Unleashes a tornado in the direction you are pointing which hurls anything in its path skywards.
+

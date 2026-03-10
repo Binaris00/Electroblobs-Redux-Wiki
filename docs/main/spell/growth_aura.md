@@ -1,15 +1,25 @@
 # Growth Aura
 
-| Data | Value |
-| --- | --- |
-| Icon | ![growth aura icon](/resources/img/spell/growth_aura.png) |
-| Tier | Apprentice |
-| Element | Earth |
-| Type | Utility |
-| Mana Cost | 20 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:growth_aura` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/growth_aura.png) |
+| **Element** | <span class="element-earth">Earth</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 20 |
+| **Cooldown** | 2.5 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:growth_aura` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Effect radius | 2 |
 
 ## Description
-_Grows all crops near the caster. Also grows tall grass and flowers on grass._
+
+Grows all crops near the caster. Also grows tall grass and flowers on grass.
+

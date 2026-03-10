@@ -1,15 +1,25 @@
 # Wither Skull
 
-| Data | Value |
-| --- | --- |
-| Icon | ![wither skull icon](/resources/img/spell/wither_skull.png) |
-| Tier | Advanced |
-| Element | Necromancy |
-| Type | Attack |
-| Mana Cost | 20 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:wither_skull` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/wither_skull.png) |
+| **Element** | <span class="element-necromancy">Necromancy</span> |
+| **Type** | Attack |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 20 |
+| **Cooldown** | 1.5 seconds |
+| **Charge Time** | 5 ticks |
+| **ID** | `ebwizardry:wither_skull` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Speed | 0.1 |
 
 ## Description
-_Launches a wither skull in the direction you are pointing._
+
+Launches a wither skull in the direction you are pointing.
+

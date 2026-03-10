@@ -1,15 +1,26 @@
 # Leap
 
-| Data | Value |
-| --- | --- |
-| Icon | ![leap icon](/resources/img/spell/leap.png) |
-| Tier | Novice |
-| Element | Earth |
-| Type | Utility |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:leap` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/leap.png) |
+| **Element** | <span class="element-earth">Earth</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-novice">Novice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 1 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:leap` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Horizontal speed | 0.3 |
+| Vertical speed | 0.65 |
 
 ## Description
-_Causes the caster to jump upwards several blocks and slightly forward._
+
+Causes the caster to jump upwards several blocks and slightly forward.
+

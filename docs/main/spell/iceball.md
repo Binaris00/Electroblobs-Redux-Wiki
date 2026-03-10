@@ -1,15 +1,28 @@
 # Iceball
 
-| Data | Value |
-| --- | --- |
-| Icon | ![iceball icon](/resources/img/spell/iceball.png) |
-| Tier | Apprentice |
-| Element | Ice |
-| Type | Attack |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:iceball` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/iceball.png) |
+| **Element** | <span class="element-ice">Ice</span> |
+| **Type** | Projectile |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 15 ticks |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:iceball` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 20.0 |
+| Damage | 5.0 |
+| 'effect' effect duration | 100 |
+| 'effect' effect strength | 0 |
 
 ## Description
-_Launches an iceball in the direction you are pointing._
+
+Launches an ice ball in the direction you are pointing.
+

@@ -1,15 +1,26 @@
 # Flight
 
-| Data | Value |
-| --- | --- |
-| Icon | ![flight icon](/resources/img/spell/flight.png) |
-| Tier | Master |
-| Element | Earth |
-| Type | Utility |
-| Mana Cost | 10 |
-| Continuous | Yes |
-| Cast by wizards | No |
-| ID | `ebwizardry:flight` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/flight.png) |
+| **Element** | <span class="element-earth">Earth</span> |
+| **Type** | Utility |
+| **Tier** | <span class="tier-master">Master</span> |
+| **Mana Cost** | 10 per tick |
+| **Cooldown** | None |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:flight` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Acceleration | 0.05 |
+| Speed | 0.5 |
 
 ## Description
-_Soar like an eagle._
+
+Soar like an eagle.
+

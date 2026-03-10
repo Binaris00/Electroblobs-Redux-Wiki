@@ -1,15 +1,27 @@
 # Summon Snow Golem
 
-| Data | Value |
-| --- | --- |
-| Icon | ![summon snow golem icon](/resources/img/spell/summon_snow_golem.png) |
-| Tier | Apprentice |
-| Element | Ice |
-| Type | Minion |
-| Mana Cost | 15 |
-| Continuous | No |
-| Cast by wizards | No |
-| ID | `ebwizardry:summon_snow_golem` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/summon_snow_golem.png) |
+| **Element** | <span class="element-ice">Ice</span> |
+| **Type** | Minion |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 30 |
+| **Cooldown** | 10 seconds |
+| **Charge Time** | 10 ticks |
+| **ID** | `ebwizardry:summon_snow_golem` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Minion count | 1 |
+| Minion lifetime | -1 |
+| Summon radius | 2 |
 
 ## Description
-_Creates a snow golem to fight for you. Lasts until the snow golem dies._
+
+Creates a snow golem to fight for you. Lasts until the snow golem dies.
+

@@ -1,15 +1,27 @@
 # Fireball
 
-| Data | Value |
-| --- | --- |
-| Icon | ![fireball icon](/resources/img/spell/fireball.png) |
-| Tier | Apprentice |
-| Element | Fire |
-| Type | Projectile |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:fireball` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/fireball.png) |
+| **Element** | <span class="element-fire">Fire</span> |
+| **Type** | Projectile |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 15 ticks |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:fireball` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 20.0 |
+| Damage | 5.0 |
+| 'effect' effect duration | 5 |
 
 ## Description
-_Launches a fireball in the direction you are pointing._
+
+Launches a fireball in the direction you are pointing.
+

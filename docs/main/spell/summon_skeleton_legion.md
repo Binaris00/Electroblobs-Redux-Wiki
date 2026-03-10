@@ -1,15 +1,27 @@
 # Summon Skeleton Legion
 
-| Data | Value |
-| --- | --- |
-| Icon | ![summon skeleton legion icon](/resources/img/spell/summon_skeleton_legion.png) |
-| Tier | Master |
-| Element | Necromancy |
-| Type | Minion |
-| Mana Cost | 100 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:summon_skeleton_legion` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/summon_skeleton_legion.png) |
+| **Element** | <span class="element-necromancy">Necromancy</span> |
+| **Type** | Minion |
+| **Tier** | <span class="tier-master">Master</span> |
+| **Mana Cost** | 100 |
+| **Cooldown** | 20 seconds |
+| **Charge Time** | 20 ticks |
+| **ID** | `ebwizardry:summon_skeleton_legion` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Minion lifetime | 1200 |
+| Minion count | 6 |
+| Summon radius | 3 |
 
 ## Description
-_"Rise, undead army!"_
+
+Rise, undead army!
+

@@ -1,15 +1,27 @@
 # Homing Spark
 
-| Data | Value |
-| --- | --- |
-| Icon | ![homing spark icon](/resources/img/spell/homing_spark.png) |
-| Tier | Apprentice |
-| Element | Lightning |
-| Type | Projectile |
-| Mana Cost | 10 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:homing_spark` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/homing_spark.png) |
+| **Element** | <span class="element-lightning">Lightning</span> |
+| **Type** | Projectile |
+| **Tier** | <span class="tier-apprentice">Apprentice</span> |
+| **Mana Cost** | 10 |
+| **Cooldown** | 1 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:homing_spark` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 25.0 |
+| Damage | 6.0 |
+| Seeking strength | 5 |
 
 ## Description
-_Creates a floating spark which moves towards enemies._
+
+Creates a floating spark which moves towards enemies.
+

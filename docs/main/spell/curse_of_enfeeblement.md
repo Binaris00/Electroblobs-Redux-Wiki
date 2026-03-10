@@ -1,15 +1,26 @@
 # Curse of Enfeeblement
 
-| Data | Value |
-| --- | --- |
-| Icon | ![curse of enfeeblement icon](/resources/img/spell/curse_of_enfeeblement.png) |
-| Tier | Master |
-| Element | Necromancy |
-| Type | Alteration |
-| Mana Cost | 60 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:curse_of_enfeeblement` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/curse_of_enfeeblement.png) |
+| **Element** | <span class="element-necromancy">Necromancy</span> |
+| **Type** | Alteration |
+| **Tier** | <span class="tier-master">Master</span> |
+| **Mana Cost** | 60 |
+| **Cooldown** | 7.5 seconds |
+| **Charge Time** | 20 ticks |
+| **ID** | `ebwizardry:curse_of_enfeeblement` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
+| 'effect' effect strength | 0 |
 
 ## Description
-_"He was suddenly weakened, as if the life had been wrenched from within him." - Testimony of the only person known to have encountered a member of the soulwalker cult and survived._
+
+He was suddenly weakened, as if the life had been wrenched from within him. - Testimony of the only person known to have encountered a member of the soulwalker cult and survived.
+

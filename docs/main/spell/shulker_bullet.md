@@ -1,15 +1,25 @@
 # Shulker Bullet
 
-| Data | Value |
-| --- | --- |
-| Icon | ![shulker bullet icon](/resources/img/spell/shulker_bullet.png) |
-| Tier | Advanced |
-| Element | Necromancy |
-| Type | Projectile |
-| Mana Cost | 25 |
-| Continuous | No |
-| Cast by wizards | Yes |
-| ID | `ebwizardry:shulker_bullet` |
+## Data Information
+
+| Property | Value |
+|----------|-------|
+| **Icon** | ![](/resources/img/spell/shulker_bullet.png) |
+| **Element** | <span class="element-necromancy">Necromancy</span> |
+| **Type** | Projectile |
+| **Tier** | <span class="tier-advanced">Advanced</span> |
+| **Mana Cost** | 25 |
+| **Cooldown** | 2 seconds |
+| **Charge Time** | 0 ticks |
+| **ID** | `ebwizardry:shulker_bullet` |
+
+## Additional Properties
+
+| Property | Value |
+|----------|-------|
+| Range | 10.0 |
 
 ## Description
-_Shoots a shulker bullet which seeks targets and causes them to levitate when hit._
+
+Shoots a shulker bullet which seeks targets and causes them to levitate when hit.
+
