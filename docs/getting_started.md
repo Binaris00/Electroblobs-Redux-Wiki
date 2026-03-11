@@ -16,13 +16,13 @@ Once you've got all that, take a book and a magic crystal and craft yourself a c
 
 Take your new arcane workbench and place it down somewhere (it doesn't matter where you put it for now, you can always pick it back up again with a stone pickaxe or better). Now right-click on it, and you should see a GUI appear which looks something like this:
 
-![Arcane Workbench without anything](resources/img/arcaneworkbench_gui.png)
+![Arcane Workbench without anything](/resources/img/arcaneworkbench_gui.png)
 
 The central slot is where you can place wands, [wizard armor](/main/item/wizard_armors) and [scrolls](/main/item/scroll). Place your new magic wand in there - you should see five more slots appear in a circle around the central slot. These slots are for spell books, and each one corresponds to one of the spell slots on your wand. Unless you were lucky enough to find a spell book on your travels, you'll only have one - the magic missile spell book you crafted earlier - so place it in one of the five spell book slots.
 
 The other thing you probably noticed when you placed your wand in the arcane workbench was the tooltip that appears to the right Mana is the magical energy used to cast spells, and without it your wand isn't much use, so in case you need to refill your wand here's what you need to do: Take some magic crystals and place them in the slot in the bottom-left corner. Now click the big shiny confirm button (bottom-right), and the crystals should vanish! Don't worry though, they've been turned into mana, which is now stored within your wand.
 
-![Arcane workbench with crystals, spell books and wand](resources/img/arcaneworkbench_gui_filled.png)
+![Arcane workbench with crystals, spell books and wand](/resources/img/arcaneworkbench_gui_filled.png)
 
 You'll notice that the tooltip has changed in two ways: firstly, your wand will now have some mana - 100 times the number of crystals that were used up, to be exact - and secondly, there should now be a list of five spells that are bound to your wand. One of these will be [magic missile](/main/spell/magic_missile), but the rest will probably say '[Empty slot]'. You can fill those up later once you get some more spells, but for now you're done with the arcane workbench, so take your wand and let's cast some spells!
 
@@ -30,7 +30,7 @@ You'll notice that the tooltip has changed in two ways: firstly, your wand will 
 
 Now you're all set to do some spell casting! When you have a wand in your hand, you'll see a heads-up display appear in the corner of your screen (you can change its position using the config menu). This shows your currently equipped spell. Switch spells either by using the N and B keys (these can be changed in options → controls), or by scrolling with the mouse wheel whilst sneaking. Right-click to cast the currently equipped spell.
 
-![Spell Casting GUI with magic missile spell selected](resources/img/casting_gui_magic_missile.png)
+![Spell Casting GUI with magic missile spell selected](/resources/img/casting_gui_magic_missile.png)
 
 ## Next Steps
 
