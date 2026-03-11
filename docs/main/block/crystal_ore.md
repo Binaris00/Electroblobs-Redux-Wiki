@@ -1,6 +1,6 @@
 # Crystal Ore
 
-Crystal ore is the primary source of magic crystals, which supply mana to [wands](/main/item/wands) and [wizard armor](/main/item/wizard_armor) and are central to wizardry's gameplay.
+Crystal ore is the primary source of magic crystals, which supply mana to [wands](/main/item/wands) and [wizard armor](/main/item/wizard_armors) and are central to wizardry's gameplay.
 
 TODO:
 img A vein of crystal ore in a cave.

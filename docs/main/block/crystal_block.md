@@ -7,7 +7,7 @@ img A regular crystal block, along with the 7 elemental variants
 
 ## Obtaining
 
-Crystal blocks can be crafted from 9 magic crystals of the corresponding [element](/main/spell/element). They are also available in the wizardry tab of the creative mode inventory and via the /give command.
+Crystal blocks can be crafted from 9 magic crystals of the corresponding [element](/main/extra/element). They are also available in the wizardry tab of the creative mode inventory and via the /give command.
 
 TODO:
 img The crafting recipe for crystal blocks

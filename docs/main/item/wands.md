@@ -1,6 +1,6 @@
 # Wands
 
-Wands are the implements used to cast spells. Each wand holds a certain number of spells and a certain quantity of mana, which depend on its [tier](/main/spell/spell_tier) and any special wand upgrades that have been applied. Novice wands can be crafted, and higher-tier wands may be obtained by upgrading other wands using [tomes of arcana](/main/item/tomes_of_arcana). Wands may also be purchased from wizards.
+Wands are the implements used to cast spells. Each wand holds a certain number of spells and a certain quantity of mana, which depend on its [tier](/main/extra/spell_tier) and any special wand upgrades that have been applied. Novice wands can be crafted, and higher-tier wands may be obtained by upgrading other wands using [tomes of arcana](/main/item/tomes_of_arcana). Wands may also be purchased from wizards.
 
 TODO:
 img of all the wands
@@ -20,7 +20,7 @@ img of spellcasting ui with magic missile selected
 
 Spells are bound to wands using an arcane workbench, which also allows them to be charged and upgraded. Tomes of arcana upgrade a wand to the next tier, whereas special [wand upgrades](/main/item/wand_upgrades) improve a particular aspect of the wand or the spells it casts.
 
-Wands may also be used to designate allies (see [Ally System](/advanced/ally_system)), dispel spirit animals, and remember locations for the [transportation](/main/spell/transportation) and [clairvoyance](/main/spell/clairvoyance) spells.
+Wands may also be used to designate allies (see [Ally System](/advanced/ally_system)), dispel spirit animals, and remember locations for the transportation and clairvoyance spells.
 
 ## Progression
 

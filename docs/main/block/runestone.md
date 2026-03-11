@@ -7,7 +7,7 @@ img A variety of runestone blocks of different elements, glowing in the dark
 
 ## Obtaining
 
-Runestone can be crafted from 8 stone surrounding a magic crystal of the corresponding [element](/main/spell/element), or it can be collected from naturally-generated shrines and obelisks. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
+Runestone can be crafted from 8 stone surrounding a magic crystal of the corresponding [element](/main/extra/element), or it can be collected from naturally-generated shrines and obelisks. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
 
 TODO:
 The crafting recipe for fire runestone - other elements require their respective elemental crystals

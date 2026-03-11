@@ -2,7 +2,7 @@
 
 * The magic missile spell book is craftable.
 
-Spell books are one of the two forms in which [spells](/spells) are recorded, the other being [scrolls](/scrolls). Unlike scrolls, spell books are permanent, and are used to bind the spells they contain to wands. Spell books also contain information about spells.
+Spell books are one of the two forms in which [spells](/main/spells) are recorded, the other being [scrolls](/main/item/scroll). Unlike scrolls, spell books are permanent, and are used to bind the spells they contain to wands. Spell books also contain information about spells.
 
 TODO:
 img of magic missile description inside spellbook

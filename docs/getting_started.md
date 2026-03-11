@@ -4,7 +4,7 @@ This page is a quick guide/walkthrough to help beginners get to grips with the b
 
 ## First Steps
 
-The very first thing you'll want to do is collect [magic crystals](/main/item/magic_crystal). These small items are a central part of wizardry - they'll supply your [wands](/main/item/wands) with mana for your tool, also you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of [crystal ore](/main/block/crystal_ore), also you could find [crystal flowers](/main/) in most of the biomes.
+The very first thing you'll want to do is collect [magic crystals](/main/item/magic_crystal). These small items are a central part of wizardry - they'll supply your [wands](/main/item/wands) with mana for your tool, also you'll need them in various crafting recipes. To start with, you'll need at least 15 or so. You'll find most crystals underground in the form of [crystal ore](/main/block/crystal_ore), also you could find [crystal flowers](/) in most of the biomes.
 
 You should also gather a few other resources: some smooth stone, a handful of lapis lazuli pieces, some wool, a few gold nuggets and a couple of books.
 
