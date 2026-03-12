@@ -18,7 +18,7 @@ img Crafting recipe for the arcane workbench
 
 ## Usage
 
-Right-clicking on an arcane workbench opens a GUI which allows the player to access its various functions. In the center of the GUI is a slot which accepts a wand, blank scroll or piece of wizard armor; this is the item that will be charged, upgraded or have spells bound to it. Upon placing a wand or blank scroll in the central slot, a number of other slots appear in a circle around it: 1 for a blank scroll and 5-8 for a wand (depending on the number of [attunement upgrades](/main/item/attunement_upgrade) applied to it).
+Right-clicking on an arcane workbench opens a GUI which allows the player to access its various functions. In the center of the GUI is a slot which accepts a wand, blank scroll or piece of wizard armor; this is the item that will be charged, upgraded or have spells bound to it. Upon placing a wand or blank scroll in the central slot, a number of other slots appear in a circle around it: 1 for a blank scroll and 5-8 for a wand (depending on the number of [attunement upgrades](/main/item/wand_upgrades) applied to it).
 
 TODO:
 img Arcane workbench UI with a master wand with various upgrades applied, including 3 attunement upgrades, giving 8 spell slots.

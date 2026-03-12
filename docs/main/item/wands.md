@@ -16,7 +16,7 @@ img of how to craft a novice wand
 Right-clicking with a wand casts the currently equipped spell. Continuous spells require the right mouse button to be held in order to cast them; all other spells only require it to be pressed once. When the player is holding a wand, a heads-up display is shown in the corner of the screen, which shows the currently equipped spell: its name, icon and cooldown bar if it has recently been cast. The equipped spell can be selected using the N and B keys (these can be changed in options -> controls), or by scrolling with the mouse wheel whilst sneaking.
 
 TODO:
-img of spellcasting ui with magic missile selected
+img of spell casting ui with magic missile selected
 
 Spells are bound to wands using an arcane workbench, which also allows them to be charged and upgraded. Tomes of arcana upgrade a wand to the next tier, whereas special [wand upgrades](/main/item/wand_upgrades) improve a particular aspect of the wand or the spells it casts.
 

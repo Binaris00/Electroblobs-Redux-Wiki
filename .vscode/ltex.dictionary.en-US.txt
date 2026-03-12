@@ -12,3 +12,8 @@ Runestone
 runestone
 Jammer
 jammer
+Pyromancers
+arcana
+enchantability
+Electroblob
+mineshafts
