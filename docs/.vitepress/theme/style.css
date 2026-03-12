@@ -133,10 +133,6 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
-.element-magic {
-  color: #AAAAAA;
-}
-
 .element-fire {
   color: #AA0000;
 }
@@ -154,22 +150,36 @@
 }
 
 .element-sorcery {
+  color: #00a300;
+}
+
+.dark .element-sorcery {
   color: #55FF55;
 }
 
 .element-healing {
+  color: #a3a300;
+}
+
+.dark .element-healing {
   color: #FFFF55;
 }
 
 .element-ice {
+  color: #009090;
+}
+
+.dark .element-ice {
   color: #55FFFF;
 }
 
-.tier-novice {
-  color: #FFFFFF;
+
+/* TIERS */
+.tier-apprentice {
+  color: #009090;
 }
 
-.tier-apprentice {
+.dark .tier-apprentice {
   color: #55FFFF;
 }
 
@@ -177,6 +187,16 @@
   color: #0000AA;
 }
 
+.dark .tier-advanced {
+  color: #3434ff;
+}
+
 .tier-master {
   color: #AA00AA;
+}
+
+.vp-doc table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
 }
