@@ -19,3 +19,7 @@
 {"rule":"A_INFINITIVE","sentence":"^\\QThey can be summoned by players and other spell casters using the summon ice wraith spell.\\E$"}
 {"rule":"A_INFINITIVE","sentence":"^\\QThey can also be summoned by players and other spell casters using the summon lightning wraith spell.\\E$"}
 {"rule":"A_INFINITIVE","sentence":"^\\QThey can be summoned by players and other spell casters using the summon lightning wraith spell.\\E$"}
+{"rule":"PRP_JJ","sentence":"^\\QThe curse of enfeeblement spell inflicts curse of enfeeblement I on its target.\\E$"}
+{"rule":"PRP_JJ","sentence":"^\\QThe curse of soulbinding spell inflicts curse of soulbinding I on its target.\\E$"}
+{"rule":"PRP_JJ","sentence":"^\\QSources\nThe curse of undeath spell inflicts curse of undeath I on its target.\\E$"}
+{"rule":"PRP_JJ","sentence":"^\\QThe curse of undeath spell inflicts curse of undeath I on its target.\\E$"}

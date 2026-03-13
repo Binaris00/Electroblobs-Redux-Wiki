@@ -20,3 +20,9 @@ mineshafts
 ender
 Arcana
 Fireskin
+Soulbinding
+soulbinding
+undeath
+Undeath
+Oakflesh
+oakflesh
