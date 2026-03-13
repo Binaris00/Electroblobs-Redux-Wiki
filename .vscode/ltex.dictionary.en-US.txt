@@ -17,3 +17,6 @@ arcana
 enchantability
 Electroblob
 mineshafts
+ender
+Arcana
+Fireskin

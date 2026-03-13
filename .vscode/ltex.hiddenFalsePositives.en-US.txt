@@ -15,3 +15,7 @@
 {"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QTODO: img of an obelisk in a plains biome with the sorcery element\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QTheir default spawn frequency makes them fairly uncommon, about as common as abandoned mineshafts, though this can be changed in the config.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QWizard towers contain an [arcane workbench|Arcane-Workbench], a number of bookshelves, torches and a [wizard|Wizard].\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qenabled: A list of contexts in which the spell is enabled.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QThey can be summoned by players and other spell casters using the summon ice wraith spell.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QThey can also be summoned by players and other spell casters using the summon lightning wraith spell.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QThey can be summoned by players and other spell casters using the summon lightning wraith spell.\\E$"}

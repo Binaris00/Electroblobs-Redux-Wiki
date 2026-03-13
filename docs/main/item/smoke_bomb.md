@@ -1,0 +1,19 @@
+# Smoke Bomb
+
+_This page is about the item. For the spell, see [Smoke Bomb](/main/spell/smoke_bomb)._
+
+TODO:
+img of smoke bomb item
+
+Smoke bombs are throwable items that cause a small blast of blinding smoke on impact. They may be found in loot chests or crafted.
+
+## Obtaining
+
+Smoke bombs may be found in loot chests in dungeons. They may also be crafted from a glass bottle, gunpowder and coal.
+
+TODO:
+img recipe for smoke bombs
+
+## Usage
+
+Right-clicking whilst holding a smoke bomb will throw it in the direction the player is looking, much like a snowball or ender pearl. When the smoke bomb hits a block or creature, it will explode, blinding all mobs within a 3 block radius.
