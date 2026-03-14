@@ -28,5 +28,5 @@ features:
   - title: Artifacts
     details: (Spoiler!) Learn about all the magic artifacts discovered at the moment
     linkText: Learn more
-    link: /artifacts
+    link: /main/artifacts
 ---

@@ -194,9 +194,3 @@
 .tier-master {
   color: #AA00AA;
 }
-
-.vp-doc table {
-  display: block;
-  overflow-x: auto;
-  white-space: nowrap;
-}
