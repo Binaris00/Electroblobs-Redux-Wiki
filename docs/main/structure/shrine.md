@@ -11,7 +11,7 @@ img of an earth shrine
 
 ## Generation
 
-Shrines generate on the surface of the overworld, or whichever dimensions are specified in the config. Their default spawn frequency makes them quite rare, considerably rarer than [wizard towers](/main/structure/wizard_tower). Shrines generate in all biomes. Except the pedestal and chest, shrines are built exclusively of runestone. There are eight different shrine layouts, each with a different arrangement of pillars - however, the central pedestal with loot chest is always the same.
+Shrines generate on the surface of the overworld. Their default spawn frequency makes them quite rare, considerably rarer than [wizard towers](/main/structure/wizard_tower). Shrines generate in all biomes. Except the pedestal and chest, shrines are built exclusively of runestone. There are eight different shrine layouts, each with a different arrangement of pillars - however, the central pedestal with loot chest is always the same.
 
 Each shrine is aligned to one of the seven arcane [elements](/main/extra/element), which can easily be seen from the color of the runestone from which it is built. This element also determines the element of the wizards that are spawned. Shrines cannot be aligned to the magic 'element'.
 

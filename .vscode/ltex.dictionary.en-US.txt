@@ -26,3 +26,5 @@ undeath
 Undeath
 Oakflesh
 oakflesh
+imbuement
+Imbuement

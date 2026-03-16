@@ -1,6 +1,6 @@
 # Frost Step
 
-This page is about the status effect. For the spell, see [Frost Step](/main/spell/froststep)._
+This page is about the status effect. For the spell, see [Frost Step](/main/spell/frost_step)._
 
 TODO:
 img of mob effect icon
