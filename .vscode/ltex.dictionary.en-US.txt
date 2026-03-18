@@ -28,3 +28,10 @@ Oakflesh
 oakflesh
 imbuement
 Imbuement
+Modrinth
+ForgeGradle
+MultiLoader
+EBWR
+CurseMaven
+modpack
+SpellModifiers

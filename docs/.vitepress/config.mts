@@ -36,9 +36,18 @@ export default defineConfig({
         {
           text: "Developer Wiki",
           items: [
-            { text: "Home", link: "/developer/" },
-            { text: "API Examples", link: "/developer/api-examples" },
-            { text: "Contributing", link: "/developer/contributing" },
+            { text: "Dev Home", link: "/developer/" },
+            { text: "Installation", link: "/developer/installation"},
+            {
+              text: "Adding Spells",
+              link: "/developer/adding_spells",
+              collapsed: true,
+              items: [
+                { text: "Area Effect Spell", link: "/developer/spell/area_effect_spell" },
+                { text: "Arrow Spell", link: "/developer/spell/arrow_spell" },
+                { text: "Buff Spell", link: "/developer/spell/buff_spell" }
+              ]
+            }
           ],
         },
       ],
