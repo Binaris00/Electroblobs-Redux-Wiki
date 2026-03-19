@@ -35,3 +35,4 @@ EBWR
 CurseMaven
 modpack
 SpellModifiers
+uncollidable

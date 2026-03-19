@@ -37,5 +37,11 @@ The basic Spell system comes with some rules for allowing consistency and compat
 - [Area Effect Spell](/developer/spell/area_effect_spell)
 - [Arrow Spell](/developer/spell/arrow_spell)
 - [Buff Spell](/developer/spell/buff_spell)
+- [Conjure Item Spell](/developer/spell/conjure_item_spell)
+- [Construct Range Spell](/developer/spell/construct_range_spell)
+- [Construct Spell](/developer/spell/construct_spell)
+- [Minion Spell](/developer/spell/minion_spell)
+- [Projectile Spell](/developer/spell/projectile_spell)
+- [Ray Spell](/developer/spell/ray_spell)
 
 TODO: continue with this :love:
