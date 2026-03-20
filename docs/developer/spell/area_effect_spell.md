@@ -1,6 +1,6 @@
 # Area Effect Spell
 
-Used for spell that affects (in any form) entities within a specific area. Handling finding targets, range calculation and [SpellModifiers](/developer/spell_modifiers).
+Used for spell that affects (in any form) entities within a specific area. Handling finding targets, range calculation and [SpellModifiers](/advanced/spell_modifiers).
 
 Can be cast by entities (targeting around themselves or a specific target) and by block location (calculating the around that position).
 

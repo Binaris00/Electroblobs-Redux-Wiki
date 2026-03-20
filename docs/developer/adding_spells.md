@@ -14,7 +14,7 @@
 By default, spells are processed on the server and mirrored to clients when `requiresPacket()` returns true. Normally you will keep this to true, but if your spell's logic is purely server-side you can override this to return false.
 :::
 
-Spell is a basic blueprint which every spell added with EBWR is based on. Providing main entry points to handle different cast contexts (Player casting, NPC casting and block position casting from commands or dispensers), data driven methods to add/call [SpellProperties](/developer/spell_properties) and simple sound helpers for easy call/registry.
+Spell is a basic blueprint which every spell added with EBWR is based on. Providing main entry points to handle different cast contexts (Player casting, NPC casting and block position casting from commands or dispensers), data driven methods to add/call [Spell Properties](/advanced/spell_properties) and simple sound helpers for easy call/registry.
 
 With this system you can create pretty much any spell, even without using EBWR's built-in Spell subclasses, if you translate your new content to the spell caster item logic (or you can create your own casting system to use your own system!).
 
@@ -43,5 +43,3 @@ The basic Spell system comes with some rules for allowing consistency and compat
 - [Minion Spell](/developer/spell/minion_spell)
 - [Projectile Spell](/developer/spell/projectile_spell)
 - [Ray Spell](/developer/spell/ray_spell)
-
-TODO: continue with this :love:

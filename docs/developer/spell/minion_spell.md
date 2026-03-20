@@ -2,7 +2,7 @@
 
 Spell subclass that lets you create minions based on a specific mob. Passing the minion type (mob) to the constructor.
 
-This spell subclass is heavily simplified thanks to [Minion Data System](/advanced/minion_data), check this to know more info about how the system works.
+This spell subclass is heavily simplified thanks to [Minion Data System](/advanced/data/minion_data), check this to know more info about how the system works.
 
 By default, minions spawn on ground, but you can use the `flying(bool)` to spawn minions in the air instead.
 

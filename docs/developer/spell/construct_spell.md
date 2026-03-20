@@ -16,7 +16,7 @@ Multiple constructs at the same position can be prevented by using the `overlap(
 TODO:
 note and link for scaledconstructentity
 
-If your construct entity implement scaled construct entity it will calculate the size automatically based on the blast upgrade modifiers. The construct's damage is also modified by the potency modifier. (See [Spell Modifiers](/developer/spell_modifiers) for more info)
+If your construct entity implement scaled construct entity it will calculate the size automatically based on the blast upgrade modifiers. The construct's damage is also modified by the potency modifier. (See [Spell Modifiers](/advanced/spell_modifiers) for more info)
 
 You can add extra data/values to the construct dynamically using the `addConstructExtras` method.
 

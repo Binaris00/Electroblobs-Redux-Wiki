@@ -6,7 +6,7 @@ Keep in mind that using this subclass will add the Capability to all the instanc
 
 Spell subclass that let you conjure temporal items for players. It can't be cast by location or by spell caster entities. This creates a temporal item in the player's inventory that will have a specific lifetime by spell properties and modifiers.
 
-When using creating a spell with this subclass you give that item the [Conjure Data](/advanced/conjure_data) capability to save values like lifetime and expire limit.
+When using creating a spell with this subclass you give that item the [Conjure Data](/advanced/data/conjure_data) capability to save values like lifetime and expire limit.
 
 You need to use the `DefaultProperties.ITEM_LIFETIME` or the temporal item won't have a proper lifetime!
 
