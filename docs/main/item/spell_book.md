@@ -1,4 +1,7 @@
-# Spell Book
+<h1 class="mc-title">
+  <img src="/resources/img/item/spell_book.png" class="mc-icon" />
+  Spell Book
+</h1>
 
 * The magic missile spell book is craftable.
 
@@ -17,4 +20,5 @@ TODO:
 img of how to craft magic missile spell book
 
 ## Usage
+
 Spell books are used to bind the spell they contain to wands or blank scrolls in the arcane workbench; see that page for more details. Pressing the use item button whilst holding a spell book will display a GUI allowing the player to read it. Spell books contain the name, spell type, tier, element, and mana cost of the spell, as well as a short description and a pictorial representation of the spell. If the spell has not yet been discovered, the text in the spell book (except the spell's tier) will be written in random glyphs much like in the enchanting table, and the spell picture will be blank.

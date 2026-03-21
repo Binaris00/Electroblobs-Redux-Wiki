@@ -1,9 +1,9 @@
-# Smoke Bomb
+<h1 class="mc-title">
+  <img src="/resources/img/item/smoke_bomb.png" class="mc-icon" />
+  Smoke Bomb
+</h1>
 
 _This page is about the item. For the spell, see [Smoke Bomb](/main/spell/smoke_bomb)._
-
-TODO:
-img of smoke bomb item
 
 Smoke bombs are throwable items that cause a small blast of blinding smoke on impact. They may be found in loot chests or crafted.
 

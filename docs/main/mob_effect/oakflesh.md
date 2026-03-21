@@ -1,9 +1,9 @@
-# Oakflesh
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/oakflesh.png" class="mc-icon" />
+  Oak Flesh
+</h1>
 
 _This page is about the status effect. For the spell, see [Oakflesh](/main/spell/oakflesh)._
-
-TODO:
-img of oakflesh icon
 
 ## Description
 

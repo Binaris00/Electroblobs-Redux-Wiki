@@ -1,9 +1,9 @@
-# Containment
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/containment.png" class="mc-icon" />
+  Containment
+</h1>
 
 _This page is about the status effect. For the spell, see [Containment](/main/spell/containment)._
-
-TODO:
-img of the containment effect
 
 ## Description
 

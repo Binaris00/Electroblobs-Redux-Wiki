@@ -1,5 +1,7 @@
 # Magic Crystal
 
+<img src="/resources/img/item/crystals.png" class="full-mc-icon"/>
+
 Magic crystals are the physical source of mana used to charge [wands](/main/item/wands) and [wizard armor](/main/item/wizard_armors), as well as being an ingredient in numerous crafting recipes. They are central to wizardry's gameplay, and in fact the first step in wizardry is to gather magic crystals.
 
 ## Obtaining

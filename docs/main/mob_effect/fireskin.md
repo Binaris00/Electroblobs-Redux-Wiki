@@ -1,9 +1,9 @@
-# Fireskin
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/fireskin.png" class="mc-icon" />
+  Fireskin
+</h1>
 
 _This page is about the status effect. For the spell, see [Fireskin](/main/spell/fire_skin)._
-
-TODO:
-img fire skin icon
 
 ## Description
 

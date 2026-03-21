@@ -1,5 +1,7 @@
 # Runestone
 
+<img src="/resources/img/block/runestones.png" class="full-mc-icon"/>
+
 Runestone is a block with similar properties to stone, which is available in 7 elemental varieties and bears an assortment of glowing runes. It serves as a decorative block and building material, and is the primary block from which [obelisks](/main/structure/obelisk) and [shrines](/main/structure/shrine) are constructed.
 
 TODO:

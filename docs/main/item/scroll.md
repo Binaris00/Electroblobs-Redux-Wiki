@@ -1,4 +1,7 @@
-# Scrolls
+<h1 class="mc-title">
+  <img src="/resources/img/item/scroll.png" class="mc-icon" />
+  Scrolls
+</h1>
 
 _* Blank scrolls are found in the wizardry tab and stack to 64._
 

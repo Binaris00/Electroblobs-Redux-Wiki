@@ -1,9 +1,9 @@
-# Curse of Enfeeblement
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/curse_of_enfeeblement.png" class="mc-icon" />
+  Curse of Enfeeblement
+</h1>
 
 _This page is about the status effect. For the spell, see [Curse of Enfeeblement](/main/spell/curse_of_enfeeblement)._
-
-TODO:
-img of mob effect icon
 
 ## Description
 Curse of enfeeblement is a curse which reduces its host's maximum health and, for players, prevents natural regeneration. Curse of enfeeblement I reduces a player or mob's maximum health by 20%, and each subsequent level reduces it by a further 20%.

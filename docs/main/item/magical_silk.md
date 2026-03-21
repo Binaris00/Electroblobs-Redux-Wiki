@@ -1,7 +1,7 @@
-# Magic Silk
-
-TODO:
-img of the magic silk
+<h1 class="mc-title">
+  <img src="/resources/img/item/magic_silk.png" class="mc-icon" />
+  Magical Silk
+</h1>
 
 Magical silk is a crafting ingredient used to make [wizard armor](/main/item/wizard_armors).
 

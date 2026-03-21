@@ -1,7 +1,6 @@
 # Spectral dust
 
-TODO:
-img of all the spectral dust items
+<img src="/resources/img/item/dusts.png" class="full-mc-icon"/>
 
 Spectral dust are the residual magic essence of an element, they can be used to create new forms of magic or to be used as a fuel in most magic recipes.
 

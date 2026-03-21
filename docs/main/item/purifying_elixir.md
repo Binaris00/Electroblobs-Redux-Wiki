@@ -1,7 +1,7 @@
-# Purifying Elixir
-
-TODO:
-img of the item here
+<h1 class="mc-title">
+  <img src="/resources/img/item/purifying_elixir.png" class="mc-icon" />
+  Purifying Elixir
+</h1>
 
 Flask with exotic golden liquid with mysterious healing properties, used to cure curses that can't be removed easily.
 

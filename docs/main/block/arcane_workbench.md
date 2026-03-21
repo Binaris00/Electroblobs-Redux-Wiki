@@ -1,4 +1,7 @@
-# Arcane Workbench
+<h1 class="mc-title">
+  <img src="/resources/img/block/arcane_workbench.png" class="mc-icon" />
+  Arcane Workbench
+</h1>
 
 The arcane workbench is a block used to charge, upgrade and bind [spells](/main/spells) to [wands](/main/item/wands), to charge and upgrade [wizard armor](/main/item/wizard_armors), and to create [spell scrolls](/main/item/scroll). It is somewhat similar in appearance to an enchantment table. The arcane workbench is central to wizardry's gameplay and is one of the first things that players craft to get started with the mod.
 

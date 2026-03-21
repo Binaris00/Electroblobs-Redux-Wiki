@@ -1,9 +1,9 @@
-# Paralysis
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/paralysis.png" class="mc-icon" />
+  Paralysis
+</h1>
 
 _This page is about the status effect. For the spell, see Paralysis._
-
-TODO:
-img of paralysis icon
 
 TODO:
 paralysis spell link

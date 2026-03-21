@@ -1,9 +1,9 @@
-# Firebomb
+<h1 class="mc-title">
+  <img src="/resources/img/item/firebomb.png" class="mc-icon" />
+  Firebomb
+</h1>
 
 _This page is about the item. For the spell, see [Firebomb](/main/spell/firebomb)._
-
-TODO:
-img of firebomb item
 
 Firebombs are throwable items that cause a small blast of fire on impact. They may be found in loot chests or crafted.
 

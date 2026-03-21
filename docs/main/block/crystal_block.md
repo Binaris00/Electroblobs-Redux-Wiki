@@ -1,5 +1,7 @@
 # Crystal Block
 
+<img src="/resources/img/block/crystal_blocks.png" class="full-mc-icon"/>
+
 Crystal blocks are the storage block counterpart of [magic crystals](/main/item/magic_crystal). They serve as a decorative and building material, and as compact storage for magic crystals.
 
 TODO:

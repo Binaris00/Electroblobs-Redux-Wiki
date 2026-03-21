@@ -1,7 +1,7 @@
-# Frostbite
-
-TODO:
-img of frostbite effect
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/frost.png" class="mc-icon"/>
+  Frostbite
+</h1>
 
 ## Description
 
@@ -9,7 +9,6 @@ Frostbite is a negative potion effect which causes both slowed movement and mini
 
 TODO:
 img of mob under the effects of frostbite effect
-
 
 ## Sources
 

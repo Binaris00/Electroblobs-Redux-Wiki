@@ -1,7 +1,6 @@
 # Runestone Pedestal
 
-TODO:
-img of the runestone_pedestals...
+<img src="/resources/img/block/runestone_pedestals.png" class="full-mc-icon"/>
 
 _Runestone pedestals which are part of an unconquered shrine cannot be destroyed in survival mode_
 

@@ -1,5 +1,7 @@
 # Mana flasks
 
+<img src="/resources/img/item/flasks.png" class="full-mc-icon"/>
+
 Mana flasks are a portable source of mana used to charge [wands](/main/item/wands) and [wizard armor](/main/item/wizard_armors) without using an [arcane workbench](/main/block/arcane_workbench). They can be crafted from glass bottles and [magic crystals](/main/item/magic_crystal).
 
 ## Obtaining

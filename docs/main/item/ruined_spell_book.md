@@ -1,7 +1,7 @@
-# Ruined spell book
-
-TODO:
-img of the item here
+<h1 class="mc-title">
+  <img src="/resources/img/item/ruined_spell_book.png" class="mc-icon" />
+  Ruined Spell Book
+</h1>
 
 [Spell books](/main/item/spell_book) that weren't well-preserved, and now we can't know what was inside. Only repairing these books with the [imbuement altar](/main/block/imbuement_altar) could help to restore the old knowledge.
 

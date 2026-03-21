@@ -1,9 +1,9 @@
-# Curse of Soulbinding
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/curse_of_soulbinding.png" class="mc-icon" />
+  Curse of Soulbinding
+</h1>
 
 _This page is about the status effect. For the spell, see [Curse of Soulbinding](/main/spell/curse_of_soulbinding)._
-
-TODO:
-img of mob effect icon
 
 ## Description
 

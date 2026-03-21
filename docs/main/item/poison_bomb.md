@@ -1,9 +1,9 @@
-# Poison Bomb
+<h1 class="mc-title">
+  <img src="/resources/img/item/poison_bomb.png" class="mc-icon" />
+  Poison Bomb
+</h1>
 
 _This page is about the item. For the spell, see [Poison Bomb](/main/spell/poison_bomb)._
-
-TODO:
-img of poison bomb item
 
 Poison bombs are throwable items that cause a small blast of poisonous gas on impact. They may be found in loot chests or crafted.
 

@@ -1,9 +1,9 @@
-# Frost Step
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/frost_step.png" class="mc-icon" />
+  Frost Step
+</h1>
 
 This page is about the status effect. For the spell, see [Frost Step](/main/spell/frost_step)._
-
-TODO:
-img of mob effect icon
 
 ## Description
 

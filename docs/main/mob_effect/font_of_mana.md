@@ -1,9 +1,9 @@
-# Font of Mana
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/font_of_mana.png" class="mc-icon" />
+  Font of Mana
+</h1>
 
 _This page is about the status effect. For the spell, see [Font of Mana](/main/spell/font_of_mana)._
-
-TODO:
-img of font of mana effect
 
 ## Description
 

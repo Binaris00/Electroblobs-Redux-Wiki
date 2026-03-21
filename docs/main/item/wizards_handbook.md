@@ -1,4 +1,7 @@
-# The Wizard's Handbook
+<h1 class="mc-title">
+  <img src="/resources/img/item/wizard_handbook.png" class="mc-icon" />
+  The Wizard's Handbook
+</h1>
 
 **Keep in mind that this isn't added in the latest version of Electroblob's Wizardry Redux.**
 

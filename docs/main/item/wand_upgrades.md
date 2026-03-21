@@ -1,9 +1,8 @@
 # Wand Upgrades
 
-Special wand upgrades are items that improve particular aspects of [wands](/main/item/wands). There are currently nine types of special wand upgrade: storage, siphon, condenser, range, duration, cooldown, blast, attunement and melee.
+<img src="/resources/img/item/wand_upgrades.png" class="full-mc-icon"/>
 
-TODO:
-img of the nine special wand upgrades in the mod - inside an inventory (chest/player)
+Special wand upgrades are items that improve particular aspects of [wands](/main/item/wands). There are currently nine types of special wand upgrade: storage, siphon, condenser, range, duration, cooldown, blast, attunement and melee.
 
 ## Obtaining
 

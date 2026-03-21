@@ -1,9 +1,9 @@
-# Curse of Undeath
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/curse_of_undeath.png" class="mc-icon" />
+  Curse of Undeath
+</h1>
 
 _This page is about the status effect. For the spell, see [Curse of Undeath](/main/spell/curse_of_undeath)._
-
-TODO:
-img of mob effect icon
 
 ## Description
 

@@ -194,3 +194,20 @@
 .tier-master {
   color: #AA00AA;
 }
+
+.mc-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.mc-icon {
+  width: 32px;
+  height: 32px;
+  image-rendering: pixelated;
+}
+
+.full-mc-icon {
+  zoom: 3;
+  image-rendering: pixelated;
+}

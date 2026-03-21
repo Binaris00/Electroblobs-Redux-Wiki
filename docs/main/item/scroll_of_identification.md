@@ -1,7 +1,7 @@
-# Scroll of Identification
-
-TODO:
-img of the scroll of identification
+<h1 class="mc-title">
+  <img src="/resources/img/item/scroll.png" class="mc-icon" />
+  Scroll of Identification
+</h1>
 
 Scrolls of identification are single-use items that allow the player to discover an undiscovered item on their hot bar. Currently, they may only be found in loot chests or purchased from [wizards](/main/entity/wizard).
 

@@ -1,12 +1,12 @@
-# Arcane Jammer
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/arcane_jammer.png" class="mc-icon" />
+  Arcane Jammer
+</h1>
 
 _This page is about the status effect. For the spell, see Arcane Jammer._
 
 TODO:
 arcane jammer spell link
-
-TODO:
-img of arcane jammer icon
 
 ## Description
 

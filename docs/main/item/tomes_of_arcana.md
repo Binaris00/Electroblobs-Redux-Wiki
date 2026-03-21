@@ -1,7 +1,7 @@
-# Tome of Arcana
-
-TODO:
-img of tome of arcana item
+<h1 class="mc-title">
+  <img src="/resources/img/item/arcane_tome.png" class="mc-icon" />
+  Tomes of Arcana
+</h1>
 
 Tomes of arcana are items used to upgrade a wand's [tier](/main/extra/spell_tier). They come in three types: apprentice, advanced and master, each being rarer than the last. Tomes of arcana are central to the progression system in wizardry as they are the main way of obtaining higher-tier [wands](/main/item/wands), and hence unlocking higher-tier [spells](/main/spells).
 

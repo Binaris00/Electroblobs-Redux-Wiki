@@ -1,9 +1,9 @@
-# Static Aura
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/static_aura.png" class="mc-icon" />
+  Static Aura
+</h1>
 
 _This page is about the status effect. For the spell, see [Static Aura](/main/spell/static_aura)._
-
-TODO:
-img of static aura effect
 
 ## Description
 

@@ -1,9 +1,9 @@
-# Decay
+<h1 class="mc-title">
+  <img src="/resources/img/mob_effect/decay.png" class="mc-icon" />
+  Decay
+</h1>
 
 _This page is about the status effect. For the spell, see [Decay](/main/spell/decay)._
-
-TODO:
-img of the decay effect
 
 ## Description
 
