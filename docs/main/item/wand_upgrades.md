@@ -40,10 +40,7 @@ Duration upgrades increase the length of time spells cast by a wand last for. Su
 
 ### Cooldown Upgrade
 
-Cooldown upgrades reduce the length of all spell cooldowns for a wand. Each cooldown upgrade reduces the cooldown time of spells by 15%, so a maximum 3 cooldown upgrades will decrease the cooldown time by 45%. This effect also stacks with the font of mana status effect.
-
-TODO:
-font of mana relation
+Cooldown upgrades reduce the length of all spell cooldowns for a wand. Each cooldown upgrade reduces the cooldown time of spells by 15%, so a maximum 3 cooldown upgrades will decrease the cooldown time by 45%. This effect also stacks with the [font of mana](/main/mob_effect/font_of_mana) status effect.
 
 ### Blast Upgrade
 

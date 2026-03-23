@@ -1,7 +1,20 @@
 # Artifacts
 
-TODO:
-include artifacts introduction
+Artifacts are special magical items found in [Shrine](/main/structure/shrine), which provide bonuses, effects and abilities to enhance the player's magic. There are three types of artifact: rings, which generally improve attack abilities, amulets, which improve defensive abilities, and charms, which generally improve utility spells. Artifacts were primarily designed for use with the _Accessories_ mod, but can be used without it.
+
+![Image showing the 3 types of artifacts in the mod](/resources/img/screenshots/artifacts.png)
+
+## Obtaining
+
+The only way to obtain artifacts in survival is from loot chests in shrines. Each shrine is guaranteed to contain one random artifact, with higher-tier artifacts being rarer. There are three rarities of artifact: uncommon, rare and epic, and the rarity of a particular artifact is shown in the color of its item name, as with rare items from vanilla _Minecraft_ (yellow for uncommon, light blue for rare and pink for epic). Epic artifacts also show the enchantment glint effect.
+
+## Usage
+
+If the _Accessories_ mod is installed, artifacts may be equipped by placing them in the appropriate bauble slot. Otherwise, an artifact is considered equipped when placed in a hot bar slot. Only the first two rings, and first one amulet or charm, can be active at any one time, with the leftmost hot bar slots taking priority.
+
+Some artifacts require a particular spell to be bound to a wand on the player's hot bar in order to function. The spell will be cast as if the player had cast it directly with the wand, so the wand must have enough mana to cast it. If there is more than one wand with the spell equipped, the leftmost wand will be used.
+
+## List of Artifacts
 
 | Icon | Name | Description |
 |------|------|-------------|

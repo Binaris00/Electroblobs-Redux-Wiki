@@ -112,12 +112,7 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: "Evil Wizard", link: "/main/entity/evil_wizard" },
-                { text: "Ice Giant", link: "/main/entity/ice_giant" },
-                { text: "Ice Wraith", link: "/main/entity/ice_wraith" },
-                { text: "Lightning Wraith", link: "/main/entity/lightning_wraith" },
                 { text: "Remnant", link: "/main/entity/remnant" },
-                { text: "Shadow Wraith", link: "/main/entity/shadow_wraith" },
-                { text: "Storm Elemental", link: "/main/entity/storm_elemental" },
                 { text: "Wizard", link: "/main/entity/wizard" },
               ]
             },
@@ -127,7 +122,6 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: "Firebomb", link: "/main/item/firebomb" },
-                { text: "Frost Axe", link: "/main/item/frost_axe" },
                 { text: "Magic Crystal", link: "/main/item/magic_crystal" },
                 { text: "Magical Silk", link: "/main/item/magical_silk" },
                 { text: "Mana Flask", link: "/main/item/mana_flask" },

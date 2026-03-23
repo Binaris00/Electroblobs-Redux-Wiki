@@ -13,5 +13,4 @@ You can obtain it by killing mobs (e.g., zombies, skeletons, and more) or just l
 
 First, you need to have an imbuement altar with 4 connected receptacles. Place it in the imbuement altar and fill the 4 receptacles connected with any [spectral dust](/main/item/spectral_dust) (this will determine the spell's element!) and then wait for the reparation process to finish.
 
-TODO:
-gif of how to repair a ruined spellbook
+![Imbuement altar repairing a ruined spell book](/resources/img/screenshots/imbuement_altar_repairing_book.png)
