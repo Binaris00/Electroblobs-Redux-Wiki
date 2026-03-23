@@ -6,8 +6,7 @@ Vestiges of ancient magic are scattered throughout the world, the most notable o
 
 Obelisks are structures which generate at the surface throughout the overworld. Obelisks are tall and narrow, with an open structure at the bottom containing a monster spawner directly on top of a chest containing minor magical loot.
 
-TODO:
-img of an obelisk in a plains biome with the sorcery element
+![Sorcery Obelisk on Overworld](/resources/img/screenshots/obelisk_overworld.png)
 
 ## Generation
 

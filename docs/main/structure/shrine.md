@@ -6,8 +6,7 @@ Due to their great arcane power and significance, not to mention the riches with
 
 Shrines are structures which generate at the surface throughout the overworld. Shrines consist of a ring of [runestone](/main/block/runestone) pillars of varying heights, surrounding a central [runestone pedestal](/main/block/runestone_pedestal). An arcane-locked chest containing valuable magical loot sits on top of the pedestal.
 
-TODO:
-img of an earth shrine
+![Earth Shrine on Overworld](/resources/img/screenshots/shrine_overworld.png)
 
 ## Generation
 
@@ -19,10 +18,7 @@ The loot chest found in a shrine is guaranteed to always contain one [artifact](
 
 ## Mechanics
 
-When initially generated, shrines are inactivated, and the chest in the center is arcane-locked with no owner, preventing it from being opened or destroyed in survival mode. The shrine is activated when a player moves within 5 blocks of the central pedestal (which roughly corresponds to within the ring of pillars), signified by a sound and red particle effect. This immediately causes 3 [evil wizards](/main/entity/evil_wizard) to spawn which match the shrine's element, and a _containment_ effect to be applied to all players, wizards and evil wizards within 15 blocks of the central pedestal. This effect is refreshed every second as long as the shrine is active, much like that from a beacon, preventing the player and the spawned wizards from escaping.
-
-TODO:
-Containment effect link
+When initially generated, shrines are inactivated, and the chest in the center is arcane-locked with no owner, preventing it from being opened or destroyed in survival mode. The shrine is activated when a player moves within 5 blocks of the central pedestal (which roughly corresponds to within the ring of pillars), signified by a sound and red particle effect. This immediately causes 3 [evil wizards](/main/entity/evil_wizard) to spawn which match the shrine's element, and a [containment_](/main/mob_effect/containment) effect to be applied to all players, wizards and evil wizards within 15 blocks of the central pedestal. This effect is refreshed every second as long as the shrine is active, much like that from a beacon, preventing the player and the spawned wizards from escaping.g
 
 Once a shrine is active, it may only be deactivated by killing all three evil wizards that were spawned. Upon doing so, a second sound and particle effect signify that the shrine has been conquered, and the arcane lock on the chest is removed, allowing the player to access the loot inside. Once conquered, the containment effect no longer refreshes, and will wear off after 10 seconds, allowing any players inside to escape.
 

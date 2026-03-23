@@ -5,8 +5,7 @@
 
 The arcane workbench is a block used to charge, upgrade and bind [spells](/main/spells) to [wands](/main/item/wands), to charge and upgrade [wizard armor](/main/item/wizard_armors), and to create [spell scrolls](/main/item/scroll). It is somewhat similar in appearance to an enchantment table. The arcane workbench is central to wizardry's gameplay and is one of the first things that players craft to get started with the mod.
 
-TODO:
-img Arcane workbench with a novice wand
+![Arcane Workbench with novice wand](/resources/img/screenshots/arcaneworkbench_novice_wand.png)
 
 ## Appearance
 
@@ -16,15 +15,13 @@ The arcane workbench is similar in appearance to an enchantment table, being the
 
 An arcane workbench can be obtained by crafting it from a block of lapis lazuli, 3 stone, 2 magic crystals, 2 gold nuggets and a piece of purple carpet. Arcane workbenches also generate in [wizard towers](/main/structure/wizard_tower), providing an alternative method of obtaining them. This, however, is not advised, since the [wizard](/main/entity/wizard) in the tower will not take kindly to the player stealing their arcane workbench.
 
-TODO:
-img Crafting recipe for the arcane workbench
+![Arcane Workbench recipe](/resources/img/recipe/arcane_workbench.png)
 
 ## Usage
 
 Right-clicking on an arcane workbench opens a GUI which allows the player to access its various functions. In the center of the GUI is a slot which accepts a wand, blank scroll or piece of wizard armor; this is the item that will be charged, upgraded or have spells bound to it. Upon placing a wand or blank scroll in the central slot, a number of other slots appear in a circle around it: 1 for a blank scroll and 5-8 for a wand (depending on the number of [attunement upgrades](/main/item/wand_upgrades) applied to it).
 
-TODO:
-img Arcane workbench UI with a master wand with various upgrades applied, including 3 attunement upgrades, giving 8 spell slots.
+![Arcane Workbench with some wand upgrades](/resources/img/screenshots/arcaneworkbench_upgrades_ui.png)
 
 Spell books may be placed in these slots to bind them to the wand or scroll. In addition, the two slots on the left-hand side of the GUI allow magic crystals (upper slot) and upgrades (lower slot) to be placed in the arcane workbench in order to charge or upgrade the item respectively. Pressing the 'Apply' button completes the charging, upgrading and/or binding of spells to the item. Any combination of these three operations may be carried out simultaneously.
 

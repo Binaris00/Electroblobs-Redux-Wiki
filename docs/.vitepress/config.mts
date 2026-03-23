@@ -143,7 +143,6 @@ export default defineConfig({
                 { text: "Wand Upgrades", link: "/main/item/wand_upgrades" },
                 { text: "Wands", link: "/main/item/wands" },
                 { text: "Wizard Armors", link: "/main/item/wizard_armors" },
-                { text: "Wizard's Handbook", link: "/main/item/wizards_handbook" },
               ]
             },
 

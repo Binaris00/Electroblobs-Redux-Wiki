@@ -8,8 +8,13 @@ Mana flasks are a portable source of mana used to charge [wands](/main/item/wand
 
 Mana flasks can be crafted from a glass bottle and crystal shards, magic crystals or grand magic crystals, depending on the size. They are also available in the wizardry tab of the creative mode inventory and via the `/give` command.
 
-TODO:
-img for crafting recipes for medium mana flasks (you should prob add the others!!)
+![Small Mana Flask Recipe](/resources/img/recipe/small_mana_flask.png)
+
+![Medium Mana Flask Recipe](/resources/img/recipe/medium_mana_flask.png)
+
+> It could be used with elemental crystals as well!!
+
+![Large Mana Crystal](/resources/img/recipe/large_mana_crystal.png)
 
 ## Usage
 

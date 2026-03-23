@@ -11,8 +11,7 @@ Poison bombs are throwable items that cause a small blast of poisonous gas on im
 
 Poison bombs may be found in loot chests in dungeons. They may also be crafted from a glass bottle, gunpowder and spider eyes.
 
-TODO:
-img of the poison bomb recipe
+![Poison Bomb Recipe](/resources/img/recipe/poison_bomb.png)
 
 ## Usage
 

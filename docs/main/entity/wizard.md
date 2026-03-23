@@ -4,8 +4,7 @@ _Not to be confused with [evil wizards](/main/entity/evil_wizard)._
 
 Wizards are friendly NPCs who can cast spells. They can be found only in [wizard towers](/main/structure/wizard_tower), which generate naturally throughout the world. Wizards are an important part of wizardry's gameplay due to their trading mechanic, which is a reliable way to obtain [spell books](/main/item/spell_book) and other magical items.
 
-TODO:
-img of ice mage (or any element) doing nothing in his own tower.
+![Fire Wizard on Wizard Tower](/resources/img/screenshots/wizard_in_wizard_tower.png)
 
 ## Spawning
 

@@ -10,8 +10,7 @@ Runestone pedestals are blocks with similar properties to stone, which are avail
 
 Runestone pedestals can be crafted from 5 stone and 4 magic crystals of the corresponding [element](/main/extra/element), or it can be collected from naturally-generated shrines once conquered. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
 
-TODO:
-img recipe of a runestone pedestal
+![Runestone Pedestal Recipe](/resources/img/recipe/runestone_pedestal.png)
 
 ## Appearance
 

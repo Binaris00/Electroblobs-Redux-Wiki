@@ -13,11 +13,9 @@ Blank scrolls may be crafted from 1 paper and 1 string. A blank scroll may be pl
 
 Spell scrolls can also be found in loot chests in dungeons and [wizard towers](/main/structure/wizard_tower).
 
-TODO:
-img of crafting recipe for blank scrolls
+![Blank Scroll Recipe](/resources/img/recipe/blank_scroll.png)
 
-TODO:
-img of binding a spell to a scroll in the arcane workbench
+![Binding Scroll in the Arcane Workbench](/resources/img/screenshots/binding_scroll.png)
 
 ## Usage
 

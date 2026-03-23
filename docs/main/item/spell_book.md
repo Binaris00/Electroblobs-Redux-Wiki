@@ -7,8 +7,7 @@
 
 Spell books are one of the two forms in which [spells](/main/spells) are recorded, the other being [scrolls](/main/item/scroll). Unlike scrolls, spell books are permanent, and are used to bind the spells they contain to wands. Spell books also contain information about spells.
 
-TODO:
-img of magic missile description inside spellbook
+![Magic Missile Description on Spell Book](/resources/img/screenshots/magic_missile_spell_book.png)
 
 ## Obtaining
 
@@ -16,8 +15,7 @@ Spell books can be obtained in a number of ways: they can be found in loot chest
 
 N.B. to specify a particular spell book using the /give command, the metadata for the desired spell should be used. See Spells for the metadata values corresponding to each spell.
 
-TODO:
-img of how to craft magic missile spell book
+![Magic Missile Spell book Recipe](/resources/img/recipe/magic_missile.png)
 
 ## Usage
 

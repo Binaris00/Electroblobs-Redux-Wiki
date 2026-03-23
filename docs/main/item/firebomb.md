@@ -11,8 +11,8 @@ Firebombs are throwable items that cause a small blast of fire on impact. They m
 
 Firebombs may be found in loot chests in dungeons. They may also be crafted from a glass bottle, gunpowder and blaze powder.
 
-TODO:
-img of firebomb recipe
+![Firebomb Recipe](/resources/img/recipe/firebomb.png)
+
 
 ## Usage
 

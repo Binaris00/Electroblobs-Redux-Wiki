@@ -6,8 +6,7 @@ Receptacles are small essence holders that serve the purpose of containing [spec
 
 You can find some receptacles encrusted with an [imbuement altar](/main/block/imbuement_altar) inside [library ruins](/main/structure/library_ruins). It could also be obtained by crafting it from some gold ingots and a flower pot:
 
-TODO: 
-img crafting recipe for receptacle
+![Receptacle recipe](/resources/img/recipe/receptacle.png)
 
 ## Usage
 
@@ -15,5 +14,4 @@ When you use a spectral dust with a receptacle, this one will save the essence f
 
 You can place a receptacle on a normal surface or affixed to a wall.
 
-TODO:
-img of how to put receptacles with an imbuement altar
+![Imbuement altar with all its receptacles](/resources/img/screenshots/library_ruins_full_overworld.png)

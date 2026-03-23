@@ -9,14 +9,12 @@ img of all the wands
 
 Novice wands may be crafted from a stick, a gold nugget and a [magic crystal](/main/item/magic_crystal) of the corresponding element. Higher-tier wands can be obtained by upgrading lower-tier wands using tomes of arcana, provided they have sufficient progression to do so. Wands of all types may also be purchased from [wizards](/main/entity/wizard). All wizards and [evil wizards](/main/entity/evil_wizard) carry a wand, and evil wizards will occasionally drop their wand as a rare drop.
 
-TODO:
-img of how to craft a novice wand
+![Novice wand recipe](/resources/img/recipe/simple_wand.png)
 
 ## Usage
 Right-clicking with a wand casts the currently equipped spell. Continuous spells require the right mouse button to be held in order to cast them; all other spells only require it to be pressed once. When the player is holding a wand, a heads-up display is shown in the corner of the screen, which shows the currently equipped spell: its name, icon and cooldown bar if it has recently been cast. The equipped spell can be selected using the N and B keys (these can be changed in options -> controls), or by scrolling with the mouse wheel whilst sneaking.
 
-TODO:
-img of spell casting ui with magic missile selected
+![Casting UI with magic missile selected](/resources/img/screenshots/casting_gui_magic_missile.png)
 
 Spells are bound to wands using an arcane workbench, which also allows them to be charged and upgraded. Tomes of arcana upgrade a wand to the next tier, whereas special [wand upgrades](/main/item/wand_upgrades) improve a particular aspect of the wand or the spells it casts.
 

@@ -4,15 +4,15 @@
 
 Runestone is a block with similar properties to stone, which is available in 7 elemental varieties and bears an assortment of glowing runes. It serves as a decorative block and building material, and is the primary block from which [obelisks](/main/structure/obelisk) and [shrines](/main/structure/shrine) are constructed.
 
-TODO:
-img A variety of runestone blocks of different elements, glowing in the dark
+![Runestones in the night](/resources/img/screenshots/runestone_in_the_dark.png)
 
 ## Obtaining
 
 Runestone can be crafted from 8 stone surrounding a magic crystal of the corresponding [element](/main/extra/element), or it can be collected from naturally-generated shrines and obelisks. It is also available in the wizardry tab of the creative mode inventory and via the /give command.
 
-TODO:
-The crafting recipe for fire runestone - other elements require their respective elemental crystals
+![Runestone fire recipe](/resources/img/recipe/runestone_fire.png)
+
+> For each runestone type you will need the [elemental crystal](/main/item/magic_crystal)
 
 ## Appearance
 

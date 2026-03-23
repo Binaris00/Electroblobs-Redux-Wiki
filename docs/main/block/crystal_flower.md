@@ -2,8 +2,7 @@
 
 Crystal flowers are small, glowing flowers that generate on grass throughout the surface of the overworld. They are a source of [magic crystals](/main/item/magic_crystal) which is particularly useful early in the game.
 
-TODO:
-img Some crystal flowers in a roofed forest at night
+![Crystal Flowers in the night](/resources/img/screenshots/natural_crystal_flowers.png)
 
 ## Appearance
 
@@ -17,5 +16,4 @@ Crystal flowers can be found growing in small clusters on grass fairly commonly 
 
 Currently, the only use for crystal flowers besides decoration is crafting them into magic crystals. Each crystal flower yields two magic crystals when placed in a crafting grid.
 
-TODO:
-Crafting crystal flowers into magic crystals
+![Crystal Flower to Magic Crystals Recipe](/resources/img/recipe/crystalflower_crystal.png)

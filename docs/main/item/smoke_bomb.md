@@ -11,8 +11,7 @@ Smoke bombs are throwable items that cause a small blast of blinding smoke on im
 
 Smoke bombs may be found in loot chests in dungeons. They may also be crafted from a glass bottle, gunpowder and coal.
 
-TODO:
-img recipe for smoke bombs
+![Smoke Bomb Recipe](/resources/img/recipe/smoke_bomb.png)
 
 ## Usage
 

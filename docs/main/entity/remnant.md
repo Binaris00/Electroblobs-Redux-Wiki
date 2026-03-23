@@ -2,8 +2,7 @@
 
 Remnants are small flying mobs, representing simply elemental holders that contain magic power of a specific type, serving as simple proof of an element's existence in the world. They can be found in [obelisk](/main/structure/obelisk) holding the structure's element in their power.
 
-TODO:
-remnant img
+![Fire Wizard on Wizard Tower](/resources/img/screenshots/remnants_overworld.png)
 
 ## Behavior
 
