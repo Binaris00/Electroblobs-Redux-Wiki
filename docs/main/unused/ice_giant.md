@@ -2,11 +2,10 @@
 
 Ice giants are an elemental representation of cold and fearlessness in the form of a big ice golem, normally created accidentally by using [ice](/main/extra/element) spells without the needed knowledge or by using the "summon ice giant" spell.
 
-TODO:
-
+MISSING:
 ice giant img
 
-TODO:
+MISSING:
 summon ice giant spell link
 
 ## Behavior

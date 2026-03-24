@@ -2,7 +2,7 @@
 
 Lightning wraiths are stormy counterparts to blazes, and are one of the magical creatures added by wizardry. They can be summoned by players and other spell casters using the [summon lightning wraith](/main/spell/summon_lightning_wraith) spell.
 
-TODO:
+MISSING:
 img of the lightning wraith.
 
 ## Behavior

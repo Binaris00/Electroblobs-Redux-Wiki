@@ -11,9 +11,6 @@ Frostbite is a negative potion effect which causes both slowed movement and mini
 
 Most ice [spells](/main/spells) inflict frostbite on their targets. In addition, being hit with a [frost axe](/main/item/frost_axe), a freezing weapon spell or a creature with the ice shroud effect effect also gives the frostbite effect.
 
-TODO:
-ice shroud effect / freezing weapon links
-
 ## Trivia
 
 - When under the effects of frostbite II, players and mobs are unable to move by walking but may move slowly by jumping.

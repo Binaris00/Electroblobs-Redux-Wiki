@@ -7,14 +7,14 @@
 
 _The Wizard's Handbook_ is the in-game guide book for _Electroblob's Wizardry Redux_. It explains all of the important aspects of the mod's gameplay and is invaluable for players who are new to wizardry.
 
-TODO:
+MISSING:
 img of introduction page of the wizards handbook
 
 ## Obtaining
 
 _The Wizard's Handbook_ can be crafted from a book and a [magic crystal](/main/item/magic_crystal). It is also available in the wizardry tab of the creative mode inventory and via the `/give` command.
 
-TODO:
+MISSING:
 img of crafting recipe for the wizards handbook
 
 ## Usage

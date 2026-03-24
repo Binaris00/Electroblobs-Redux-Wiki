@@ -1,8 +1,5 @@
 # Construct Range Spell
 
-TODO:
-links for construct entity and scaled construct entity
-
 ::: info
 Check the [Construct Spell](/developer/spell/construct_spell) logic first before using this! Most of its properties and system are still used here.
 :::

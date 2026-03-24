@@ -1,8 +1,5 @@
 # Construct Spell
 
-TODO:
-note and link for MagicConstructEntity
-
 Spell subclass that spawn magic construct entities (simple static entities with special behaviors), handling positioning, spawn, scaling, calculation of modifiers and lifetime management.
 
 It can be cast by spell caster entities (spawning the construct at the caster's position) and by location (spawning the construct at the exact block position).
@@ -12,9 +9,6 @@ Constructs can have infinite duration (lifetime = -1) or temporary by using a `D
 You can make the construct be constrained to require a floor surface to spawn by using the `floor(bool)` flag.
 
 Multiple constructs at the same position can be prevented by using the `overlap(bool)` flag.
-
-TODO:
-note and link for scaledconstructentity
 
 If your construct entity implement scaled construct entity it will calculate the size automatically based on the blast upgrade modifiers. The construct's damage is also modified by the potency modifier. (See [Spell Modifiers](/advanced/spell_modifiers) for more info)
 

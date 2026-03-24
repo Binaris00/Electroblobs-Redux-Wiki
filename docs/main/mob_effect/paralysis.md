@@ -3,11 +3,6 @@
   Paralysis
 </h1>
 
-_This page is about the status effect. For the spell, see Paralysis._
-
-TODO:
-paralysis spell link
-
 ## Description
 
 Paralysis is a negative potion effect caused by a lightning bolt. This effect makes the user unable to move for the specific time but can still take damage; however, taking too much will snap the user out of the paralysis effect.

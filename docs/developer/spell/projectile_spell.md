@@ -1,8 +1,5 @@
 # Projectile Spell
 
-TODO:
-note/link of magic projectile entity
-
 Spell subclass for shooting magical projectile entities (which basically are thrown item projectiles), checking things like: position, launch, modifier calculation, velocity scaling and more!
 
 It can be cast by spell caster entities, shooting towards a target, and by location, shooting in the direction of a block face.

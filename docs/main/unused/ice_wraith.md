@@ -2,10 +2,10 @@
 
 Ice wraiths are icy counterparts to blazes, and are one of the magical creatures added by wizardry. They can be summoned by players and other spell casters using the summon ice wraith spell.
 
-TODO:
+MISSING:
 summon ice wraith link
 
-TODO:
+MISSING:
 img of the ice wraith look
 
 ## Behavior
