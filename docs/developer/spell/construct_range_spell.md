@@ -13,6 +13,3 @@ When cast by a player, the construct is spawned at the point where the player's 
 You can change if the spell should hit liquids by the `hitLiquids(bool)` flag.
 
 It could ignore uncollidable blocks by calling `ignoreUncollidables(bool)` flag, this is in case you want to avoid blocks like grass or some crops.
-
-TODO:
-well example for this...

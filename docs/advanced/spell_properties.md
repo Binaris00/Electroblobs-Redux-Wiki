@@ -29,7 +29,7 @@ Spell properties files all contain the following tags:
   - **[property name]**: Determines the numeric value of a particular property.
   - ...
 
-As an example, here is the spell properties file for [[magic missile]]:
+As an example, here is the spell properties file for [magic missile](/main/spell/magic_missile):
 
 ```json
 {
@@ -64,5 +64,51 @@ Here, the `"damage"` tag specifies the damage dealt when a magic missile hits a 
 
 ## Modifying spell properties
 
-TODO:
-im lazy, pls explain how to use datapacks to modify spell properties... later
+::: info
+Make sure that your EBWR it's on the latest version possible.
+
+Try to check [Datapack guide](https://minecraft.wiki/w/Data_pack) first if you don't know how it works
+:::
+
+You need to modify the internal `.json` files inside the data folder using datapacks, just like how you would modify recipes or asset locations.
+
+For reference, you could check this [link](https://github.com/Binaris00/ElectroblobsWizardryRedux/tree/master/common/src/generated/resources/data/ebwizardry/spells) to check the default file for each spell, later on you will copy and modify the wanted parts of one of these spells.
+
+Let's say that you want to modify the [Magic Missile](/main/spell/magic_missile) damage and [spell element](/main/extra/element), for this you would need to create these json file inside your datapack folder, the path should be like this:
+
+`data/ebwizardry/spells/magic_missile.json`
+
+Now, we just need to copy the default spell property file and then change the wanted values to something like this:
+
+```json
+{
+  "enabled": {
+    "book": true,
+    "commands": true,
+    "dispensers": true,
+    "looting": true,
+    "npcs": true,
+    "scroll": true,
+    "trades": true,
+    "treasure": true,
+    "wands": true
+  },
+  "base_properties": {
+    "damage": 7.0,
+    "range": 18.0
+  },
+  "type": "projectile",
+  "chargeup": 0,
+  "cooldown": 5,
+  "cost": 5,
+  "element": "ebwizardry:fire",
+  "spell_action": "ebwizardry:point",
+  "tier": "ebwizardry:novice"
+}
+```
+
+Keep in mind that you need to copy and use the whole file, even if you want to modify just a single thing, if you only copy a part of the file the mod will load the default spell properties of that spell to avoid crashing the game.
+
+Magic Missile will now deal 7.0 damage and be treated as a Fire spell.
+
+When you load the game and upload the datapack to your world you should see that the mod is recognizing the Magic missile new damage and element. (If you want to know how to upload your datapack to your world check [Importing a datapack](https://minecraft.wiki/w/Tutorial:Importing_a_data_pack))

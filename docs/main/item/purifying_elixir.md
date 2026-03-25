@@ -7,8 +7,7 @@ Flask with exotic golden liquid with mysterious healing properties, used to cure
 
 ## Obtaining
 
-TODO:
-how can you obtain this...?
+Purifying Elixir can be obtained inside normal dungeons in the world, you can also find it in the saved within a [shrine](/main/structure/shrine).
 
 ## Usage
 

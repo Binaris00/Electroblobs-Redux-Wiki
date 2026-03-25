@@ -2,8 +2,7 @@
 
 Wands are the implements used to cast spells. Each wand holds a certain number of spells and a certain quantity of mana, which depend on its [tier](/main/extra/spell_tier) and any special wand upgrades that have been applied. Novice wands can be crafted, and higher-tier wands may be obtained by upgrading other wands using [tomes of arcana](/main/item/tomes_of_arcana). Wands may also be purchased from wizards.
 
-TODO:
-img of all the wands
+<img src="/resources/img/item/novice_wands.png" class="full-mc-icon"/>
 
 ## Obtaining
 

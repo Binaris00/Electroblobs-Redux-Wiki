@@ -41,3 +41,4 @@ Runestones
 Datapack
 datapacks
 datapack
+Battlemage

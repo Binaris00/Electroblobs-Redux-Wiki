@@ -3,10 +3,7 @@
   Arcane Jammer
 </h1>
 
-_This page is about the status effect. For the spell, see Arcane Jammer._
-
-TODO:
-arcane jammer spell link
+_This page is about the status effect. For the spell, see [Arcane Jammer](/main/spell/arcane_jammer)._
 
 ## Description
 
