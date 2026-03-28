@@ -42,3 +42,4 @@ Datapack
 datapacks
 datapack
 Battlemage
+EBAttributes

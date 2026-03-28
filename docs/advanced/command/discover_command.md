@@ -4,6 +4,8 @@
 
 The `/discover` command allows making players learn spells. This could be made for individual or all spells at once.
 
+> **Note:** Both subcommands require permission level 2 (operator).
+
 ## Command Structure
 
 The command has two main subcommands:
@@ -15,8 +17,6 @@ The command has two main subcommands:
 ### Discover All
 
 `/discover <player> all` - Grants the specified player discovery of all available spells.
-
-> **Note:** Both subcommands require permission level 2 (operator).
 
 ## Examples
 
