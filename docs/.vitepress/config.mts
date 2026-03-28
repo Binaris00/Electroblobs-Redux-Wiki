@@ -79,108 +79,130 @@ export default defineConfig({
         {
           text: "User Wiki",
           items: [
-
             {
-              text: "Introduction",
+              text: "Getting Started",
               collapsed: false,
               items: [
                 { text: "Getting Started", link: "/getting_started" },
+                { text: "Spells (Overview)", link: "/main/spells" },
+                { text: "Elements", link: "/main/extra/element" },
                 { text: "Wands", link: "/main/item/wands" },
-                { text: "Magic Crystal", link: "/main/item/magic_crystal" },
-                { text: "Spells", link: "/main/spells" },
-                { text: "Wizard Tower", link: "/main/structure/wizard_tower" },
-                { text: "Imbuement Altar", link: "/main/block/imbuement_altar" },
-              ]
+              ],
             },
+
             {
-              text: "Blocks",
+              text: "Core Systems",
               collapsed: false,
               items: [
+                { text: "Magic Crystal", link: "/main/item/magic_crystal" },
+                { text: "Imbuement Altar", link: "/main/block/imbuement_altar" },
                 { text: "Arcane Workbench", link: "/main/block/arcane_workbench" },
-                { text: "Crystal Blocks", link: "/main/block/crystal_block" },
-                { text: "Crystal Flower", link: "/main/block/crystal_flower" },
-                { text: "Crystal Ore", link: "/main/block/crystal_ore" },
-                { text: "Imbuement Altar", link: "/main/block/imbuement_altar" },
                 { text: "Receptacle", link: "/main/block/receptacle" },
-                { text: "Runestone Pedestal", link: "/main/block/runestone_pedestal" },
-                { text: "Runestone", link: "/main/block/runestone" },
-              ]
+              ],
             },
 
             {
-              text: "Entities",
+              text: "Progression (exploration)",
               collapsed: false,
               items: [
-                { text: "Evil Wizard", link: "/main/entity/evil_wizard" },
-                { text: "Remnant", link: "/main/entity/remnant" },
-                { text: "Wizard", link: "/main/entity/wizard" },
-              ]
-            },
-
-            {
-              text: "Items",
-              collapsed: false,
-              items: [
-                { text: "Firebomb", link: "/main/item/firebomb" },
-                { text: "Magic Crystal", link: "/main/item/magic_crystal" },
-                { text: "Magical Silk", link: "/main/item/magical_silk" },
-                { text: "Mana Flask", link: "/main/item/mana_flask" },
-                { text: "Poison Bomb", link: "/main/item/poison_bomb" },
-                { text: "Purifying Elixir", link: "/main/item/purifying_elixir" },
-                { text: "Ruined Spell Book", link: "/main/item/ruined_spell_book" },
-                { text: "Scroll of Identification", link: "/main/item/scroll_of_identification" },
-                { text: "Scroll", link: "/main/item/scroll" },
-                { text: "Smoke Bomb", link: "/main/item/smoke_bomb" },
-                { text: "Spectral Dust", link: "/main/item/spectral_dust" },
-                { text: "Spell Book", link: "/main/item/spell_book" },
-                { text: "Tomes of Arcana", link: "/main/item/tomes_of_arcana" },
-                { text: "Wand Upgrades", link: "/main/item/wand_upgrades" },
-                { text: "Wands", link: "/main/item/wands" },
-                { text: "Wizard Armors", link: "/main/item/wizard_armors" },
-              ]
-            },
-
-            {
-              text: "Status Effects",
-              collapsed: false,
-              items: [
-                { text: "Arcane Jammer", link: "/main/mob_effect/arcane_jammer" },
-                { text: "Containment", link: "/main/mob_effect/containment" },
-                { text: "Curse of Enfeeblement", link: "/main/mob_effect/curse_of_enfeeblement" },
-                { text: "Curse of Soulbinding", link: "/main/mob_effect/curse_of_soulbinding" },
-                { text: "Curse of Undeath", link: "/main/mob_effect/curse_of_undeath"},
-                { text: "Decay", link: "/main/mob_effect/decay" },
-                { text: "Fireskin", link: "/main/mob_effect/fireskin" },
-                { text: "Font of Mana", link: "/main/mob_effect/font_of_mana" },
-                { text: "Frostbite", link: "/main/mob_effect/frostbite" },
-                { text: "Oakflesh", link: "/main/mob_effect/oakflesh" },
-                { text: "Paralysis", link: "/main/mob_effect/paralysis" },
-                { text: "Static Aura", link: "/main/mob_effect/static_aura" },
-                { text: "Ward", link: "/main/mob_effect/ward" },
-
-              ]
-            },
-
-            {
-              text: "Structures",
-              collapsed: false,
-              items: [
+                { text: "Wizard Tower (early)", link: "/main/structure/wizard_tower" },
                 { text: "Library Ruins", link: "/main/structure/library_ruins" },
                 { text: "Obelisk", link: "/main/structure/obelisk" },
-                { text: "Shrine", link: "/main/structure/shrine" },
-                { text: "Wizard Tower", link: "/main/structure/wizard_tower" },
-              ]
+              ],
             },
 
             {
-              text: "Extras",
-              collapsed: false,
+              text: "Content",
+              collapsed: true,
               items: [
-                { text: "Elements", link: "/main/extra/element" },
-                { text: "Spell Actions", link: "/main/extra/spell_action" },
-                { text: "Spell Tiers", link: "/main/extra/spell_tier" },
+                {
+                  text: "Items",
+                  collapsed: true,
+                  items: [
+                    { text: "Wands", link: "/main/item/wands" },
+                    { text: "Wand Upgrades", link: "/main/item/wand_upgrades" },
+                    { text: "Wizard Armors", link: "/main/item/wizard_armors" },
+                    { text: "Spell Book", link: "/main/item/spell_book" },
+                    { text: "Ruined Spell Book", link: "/main/item/ruined_spell_book" },
+                    { text: "Scroll", link: "/main/item/scroll" },
+                    { text: "Scroll of Identification", link: "/main/item/scroll_of_identification" },
+                    { text: "Mana Flask", link: "/main/item/mana_flask" },
+                    { text: "Purifying Elixir", link: "/main/item/purifying_elixir" },
+                    { text: "Magical Silk", link: "/main/item/magical_silk" },
+                    { text: "Spectral Dust", link: "/main/item/spectral_dust" },
+                    { text: "Tomes of Arcana", link: "/main/item/tomes_of_arcana" },
+                    { text: "Firebomb", link: "/main/item/firebomb" },
+                    { text: "Poison Bomb", link: "/main/item/poison_bomb" },
+                    { text: "Smoke Bomb", link: "/main/item/smoke_bomb" },
+                  ],
+                },
+
+                {
+                  text: "Blocks",
+                  collapsed: true,
+                  items: [
+                    { text: "Arcane Workbench", link: "/main/block/arcane_workbench" },
+                    { text: "Imbuement Altar", link: "/main/block/imbuement_altar" },
+                    { text: "Crystal Ore", link: "/main/block/crystal_ore" },
+                    { text: "Crystal Blocks", link: "/main/block/crystal_block" },
+                    { text: "Crystal Flower", link: "/main/block/crystal_flower" },
+                    { text: "Runestone", link: "/main/block/runestone" },
+                    { text: "Runestone Pedestal", link: "/main/block/runestone_pedestal" },
+                    { text: "Receptacle", link: "/main/block/receptacle" },
+                  ],
+                },
+
+                {
+                  text: "Entities",
+                  collapsed: true,
+                  items: [
+                    { text: "Wizard", link: "/main/entity/wizard" },
+                    { text: "Evil Wizard", link: "/main/entity/evil_wizard" },
+                    { text: "Remnant", link: "/main/entity/remnant" },
+                  ],
+                },
+
+                {
+                  text: "Structures",
+                  collapsed: true,
+                  items: [
+                    { text: "Wizard Tower", link: "/main/structure/wizard_tower" },
+                    { text: "Library Ruins", link: "/main/structure/library_ruins" },
+                    { text: "Obelisk", link: "/main/structure/obelisk" },
+                    { text: "Shrine", link: "/main/structure/shrine" },
+                  ],
+                },
+
+                {
+                  text: "Status Effects",
+                  collapsed: true,
+                  items: [
+                    { text: "Arcane Jammer", link: "/main/mob_effect/arcane_jammer" },
+                    { text: "Containment", link: "/main/mob_effect/containment" },
+                    { text: "Curse of Enfeeblement", link: "/main/mob_effect/curse_of_enfeeblement" },
+                    { text: "Curse of Soulbinding", link: "/main/mob_effect/curse_of_soulbinding" },
+                    { text: "Curse of Undeath", link: "/main/mob_effect/curse_of_undeath" },
+                    { text: "Decay", link: "/main/mob_effect/decay" },
+                    { text: "Fireskin", link: "/main/mob_effect/fireskin" },
+                    { text: "Font of Mana", link: "/main/mob_effect/font_of_mana" },
+                    { text: "Frostbite", link: "/main/mob_effect/frostbite" },
+                    { text: "Oakflesh", link: "/main/mob_effect/oakflesh" },
+                    { text: "Paralysis", link: "/main/mob_effect/paralysis" },
+                    { text: "Static Aura", link: "/main/mob_effect/static_aura" },
+                    { text: "Ward", link: "/main/mob_effect/ward" },
+                  ],
+                },
+              ],
+            },
+
+            {
+              text: "Reference",
+              collapsed: true,
+              items: [
                 { text: "Spell Types", link: "/main/extra/spell_type" },
-              ]
+                { text: "Spell Tiers", link: "/main/extra/spell_tier" },
+                { text: "Spell Actions", link: "/main/extra/spell_action" },
+              ],
             },
           ],
         },
