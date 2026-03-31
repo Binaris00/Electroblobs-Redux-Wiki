@@ -4,7 +4,17 @@ export default defineConfig({
   title: "EB Wizardry Redux Wiki",
   description: "Magic mod for Minecraft",
 
+  head: [["link", { rel: "icon", href: "/resources/wizard_handbook.svg" }]],
+
   themeConfig: {
+    
+
+   logo: {
+      src: "/resources/wizard_handbook.svg",
+      width: 24,
+      height: 24,
+    },
+
     nav: [
       { text: "User", link: "/" },
       { text: "Advanced", link: "/advanced/" },
