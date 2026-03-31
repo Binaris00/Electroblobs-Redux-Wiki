@@ -43,3 +43,4 @@ datapacks
 datapack
 Battlemage
 EBAttributes
+modpacks
