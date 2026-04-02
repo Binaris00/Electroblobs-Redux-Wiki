@@ -37,6 +37,7 @@ export default defineConfig({
                 { text: "Ally Command", link: "/advanced/command/ally_command" },
                 { text: "Discover Command", link: "/advanced/command/discover_command" },
                 { text: "Undiscover Command", link: "/advanced/command/undiscover_command" },
+                { text: "Magic Attribute Command", link: "/advanced/command/magic_attribute_command" },
               ]
             },
             {
