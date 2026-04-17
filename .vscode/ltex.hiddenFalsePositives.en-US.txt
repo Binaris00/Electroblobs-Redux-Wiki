@@ -23,3 +23,4 @@
 {"rule":"PRP_JJ","sentence":"^\\QThe curse of soulbinding spell inflicts curse of soulbinding I on its target.\\E$"}
 {"rule":"PRP_JJ","sentence":"^\\QSources\nThe curse of undeath spell inflicts curse of undeath I on its target.\\E$"}
 {"rule":"PRP_JJ","sentence":"^\\QThe curse of undeath spell inflicts curse of undeath I on its target.\\E$"}
+{"rule":"CD_NN","sentence":"^\\Q::: tip Use \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q interface in your item to implement a custom way to set damage, this is used to avoid wand destruction when reaching 0 mana.\\E$"}

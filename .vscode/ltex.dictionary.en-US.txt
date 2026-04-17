@@ -44,3 +44,4 @@ datapack
 Battlemage
 EBAttributes
 modpacks
+enum
