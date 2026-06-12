@@ -1,11 +1,13 @@
 # Entity Attributes (EBAttributes)
 
+> Right now EB Attributes can't be modified by base, check [this thread](https://discord.com/channels/1446131508803932192/1514654858467348620) for more info
+
 Electroblob's Wizardry Redux provides a set of attributes under the `cast.*` namespace. These attributes interact directly with the [Spell Modifiers](/advanced/spell_modifiers) to modify the spell cast values.
 
 These are limits and values are shared between all these attributes.
 
 - default value: `0`
-- minimum: `-100`
+- minimum: `0`
 - maximum: `100`
 - synchronized to clients
 
