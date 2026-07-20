@@ -82,6 +82,7 @@ export default defineConfig({
                 { text: "Ray Spell", link: "/developer/spell/ray_spell" }
               ]
             },
+            { text: "Spell Vars", link: "/developer/spell_vars"},
             { text: "Adding Spell Cast Items", link: "/developer/adding_cast_items"},
             { text: "Adding Wizard Armors", link: "/developer/adding_wizard_armors"},
           ],
