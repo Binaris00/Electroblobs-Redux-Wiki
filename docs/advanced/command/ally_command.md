@@ -15,7 +15,7 @@ The command has two main subcommands:
 
 ### Remove Ally
 
-`/ally remove <ally></ally>` - Removes the specified player from the command executor's ally list.
+`/ally remove <ally>` - Removes the specified player from the command executor's ally list.
 
 `/ally remove <origin> <ally>`- Removes `<ally>` from `<origin>`'s ally list. Requires permission level 2 (operator).
 
