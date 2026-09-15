@@ -25,8 +25,8 @@ features:
     details: (Spoiler!) Check all the available spells in the mod
     linkText: Learn more
     link: /main/spells
-  - title: Artifacts
-    details: (Spoiler!) Learn about all the magic artifacts discovered at the moment
+  - title: Add-ons
+    details: Check the community made add-ons for Redux!
     linkText: Learn more
-    link: /main/artifacts
+    link: /main/addon_list
 ---
