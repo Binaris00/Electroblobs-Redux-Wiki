@@ -14,17 +14,15 @@ Trying to place an item in it will make it appear in the center of the imbuement
 
 ## Usage
 
-To activate the Imbuement Altar, place a Receptacle on each of its four sides, then fill
-each one with Spectral Dust. Once all four are lit, the altar is ready to use.
+To activate the Imbuement Altar, place a [Receptacle](/main/block/receptacle) on each of its four sides, then fill
+each one with [Spectral Dust](/main/item/spectral_dust). Once all four are lit, the altar is ready to use.
 
-Place a Ruined Spell Book in the center of the altar. After a few seconds, the book will
+Place a [Ruined Spell Book](/main/item/ruined_spell_book) in the center of the altar. After a few seconds, the book will
 be restored into a usable Spell Book. The element of the Spectral Dust used influences
 which spell the book ends up containing.
 
-The altar can infuse normal magic crystals into elemental crystals. All four Receptacles must
-be filled with the same element of Spectral Dust
+The altar can infuse normal magic crystals into elemental crystals. All four Receptacles must be filled with the same element of Spectral Dust.
 
-Any piece of Wizard Armor — including upgraded variants — can be infused with an element.
-The type of Spectral Dust placed in the Receptacles determines which element is applied.
+Any piece of Wizard Armor — including upgraded variants — can be infused with an element. The type of Spectral Dust placed in the Receptacles determines which element is applied.
 
 ![Imbuement altar repairing a ruined spell book](/resources/img/screenshots/imbuement_altar_repairing_book.png)

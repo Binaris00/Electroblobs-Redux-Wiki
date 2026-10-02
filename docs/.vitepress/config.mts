@@ -28,6 +28,7 @@ export default defineConfig({
           items: [
             { text: "Advanced Home", link: "/advanced/" },
             { text: "Ally System", link: "/advanced/ally_system" },
+            { text: "Imbuement Altar Recipes", link: "/advanced/imbuement_altar_recipes" },
             { text: "Spell Modifiers", link: "/advanced/spell_modifiers" },
             { text: "Spell Properties", link: "/advanced/spell_properties" },
             {
